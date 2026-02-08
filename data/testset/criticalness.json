@@ -1,0 +1,1107 @@
+[
+  {
+    "uid": "anoy132",
+    "score": 1.0,
+    "reasons": [
+      "The discussion section provides us with main gaps and new directions.",
+      "After a thorough review of the manuscript, I thank the authors for bringing out the fact that malnutrition among children staying in IBC remains a challenge.",
+      "The study highlighted the fact that few studies have been conducted in this area, an aspect that requires more rigorous studies."
+    ]
+  },
+  {
+    "uid": "anoy159",
+    "score": -1.0,
+    "reasons": [
+      "I'm uncertain about the underlying premise of the authors that we can use the perception of a reproducibility crisis in ML as a motivator to do a survey of scientific rigor in ML.",
+      "The introduction notes this problem and then quickly presumes that the problem is considered justified.",
+      "To me, this assumption is a bit strong and could be further strengthened with an explanation of the particularities of the need for rigor in the field and the challenges caused by a supposed lack of rigor.",
+      "Without discussion of the particular technical challenges posed by a lack of scientific rigor in the field, and a discussion of papers such as Wilson et al that call in to question specific instances of that possible lack of rigor, I am concerned that the paper does not sufficiently distinguish the particularities of AI research as opposed to any other technical field that requires rigorous methodology.",
+      "Perhaps the authors consider this less important, however I am not certain that the eight topics can be contextualized without an understanding of the specific technical problems noted by these papers:",
+      "Section 2 has notable limitations, in that the authors assume that this list of papers defines seminal works on scientific rigor in ML. Section 2 has notable limitations, in that the authors assume that this list of papers defines seminal works on scientific rigor in ML."
+    ]
+  },
+  {
+    "uid": "anoy67",
+    "score": 1.0,
+    "reasons": [
+      "The exploration of the relationships between service recovery, justice perceptions, employee engagement, and customer satisfaction is particularly noteworthy.",
+      "it is evident that the authors have put forth a commendable effort in addressing the key aspects related to service recovery, customer satisfaction, and employee engagement.",
+      "In terms of the strengths, the authors have effectively incorporated both theoretical and empirical research, contributing to the article's credibility. The use of real-world examples and cases adds practical relevance to the discussion."
+    ]
+  },
+  {
+    "uid": "anoy116",
+    "score": -1.0,
+    "reasons": [
+      "So, it seems incorrect to comment that the adoption of Westernised diet contributes to increased sodium intake.",
+      "So, it is unclear why the authors have singled Asian diets.",
+      "This is not part of the study's results and therefore, cannot be concluded as such.",
+      "Although sodium is naturally occurring in foods, most sodium is added during processing.",
+      "Hence, this in itself should not be much of an issue with sodium intake."
+    ]
+  },
+  {
+    "uid": "anoy28",
+    "score": 1.0,
+    "reasons": [
+      "Hu and Bajorath’s update on compound promiscuity in public compound bioactivity databases is timely with the increasing cognizance of polypharmacology and its role in the efficacy and safety of drugs.",
+      "The article aims to raise reader awareness and present new questions to be answered, and so the title, abstract, and content are appropriate.",
+      "The conclusions are fair and unbiased.",
+      "However, the apparent increased promiscuity of drugs supports the growing resurgence of phenotypic screening, the impetus for exploring compound combinations in the context of multiple genotypes, and begs the question of how medchem optimization of multiple targets should be attacked.",
+      "Additional questions do arise from this survey."
+    ]
+  },
+  {
+    "uid": "anoy27",
+    "score": -1.0,
+    "reasons": [
+      "While I really appreciated and enjoyed reading the manuscript, I would like to provide a few comments that I believe would enhance and elevate the quality of the work"
+    ]
+  },
+  {
+    "uid": "anoy8",
+    "score": -1.0,
+    "reasons": [
+      "Provide more criticism in the abstract, introduction, and conclusion.",
+      "Normally, this type of review is a comprehensive, critical, and objective analysis of the current knowledge on a topic."
+    ]
+  },
+  {
+    "uid": "anoy39",
+    "score": -1.0,
+    "reasons": [
+      "The objective related to Burden and risk factors are clumped with incidence/prevalence, mortality and morbidity and envenomation; may be provided in more elaboration specially risk factor because adverse outcome and death is not risk factor for envenomation.",
+      "Risk factor is not properly addressed here and authors has no plan for risk modelling.",
+      "Risk variables are not clear too.",
+      "I think more emphasis was given on burden. So more clarification and clear objective about risk factor should be mentioned.",
+      "So how the authors analyse this heterogeneity should be mentioned."
+    ]
+  },
+  {
+    "uid": "anoy160",
+    "score": 1.0,
+    "reasons": [
+      "To this end, the effort of the authors to recollect several papers under the same umbrella and set the core concepts and challenges is valuable and can serve as a basis for future works in MI.",
+      "The authors contribute to pointing to the core concepts (features, circuits, motifs), and typical assumptions and hypotheses (superposition, linearity, universality, simulation).",
+      "The discussion touches on both helpful and harmful aspects of MI applied to safe AI, making MI a potential new avenue of research also for trustworthy AI."
+    ]
+  },
+  {
+    "uid": "anoy51",
+    "score": -1.0,
+    "reasons": [
+      "Any differential efficacy between the DAI nets and standard pyrethroid nets will depend on the level of pyrethroid resistance in the vector population; if there is no pyrethroid resistance, it is quite possible that the addition of a second active ingredient will afford no additional protection.",
+      "Whilst this scenario of full susceptibility is now rare, the magnitude of resistance (not just the prevalence in the population) is key to interpreting any differential impact of DAIs between study sites.",
+      "Hence it is critical that the epidemiological data are considered in the context of the resistance status of the vector population.",
+      "There is almost no mention of this in the current protocol.",
+      "Data on the intensity of pyrethroid resistance in the major vectors must be captured and described.",
+      "Furthermore, if resistance levels differ between studies, the results may need to be stratified by resistance level."
+    ]
+  },
+  {
+    "uid": "anoy44",
+    "score": 1.0,
+    "reasons": [
+      "I believe that this will be a very informative review.",
+      "I think that it is a great idea to synthesize desirable attributes/selection criteria.",
+      "I believe that this is a very useful scoping review.",
+      "I think that it is a great idea to synthesize desirable attributes/selection criteria."
+    ]
+  },
+  {
+    "uid": "anoy12",
+    "score": -1.0,
+    "reasons": [
+      "The use of the bias guide used in animal experimentation should be justified and the adaptation, if any, to the current sterilization technique and purposes should be described.",
+      "Creating a table with the pros and cons of each sterilization technique is advisable to be added to the conclusions section."
+    ]
+  },
+  {
+    "uid": "anoy64",
+    "score": 2.0,
+    "reasons": [
+      "The paper makes implementable, practical recommendations, recommendations especially by policymaking authorities, especially over low- and middle-income nations (LMICs) like Georgia.",
+      "The paper contributes well to the burgeoning corpus of work relating to primary health care, especially in Georgia and the region of the Caucasus.",
+      "Findings are relevant to policymaking and researchers and practitioners are intent on developing strengthened health systems.",
+      "This systematic analysis adds significantly to the literature review on strengthening PHC, particularly for Georgia and the Caucasus region.",
+      "It shall be an excellent addition to the field and an invaluable tool, and it shall remain so for scholars, policymakers, and practitioners involved in strengthening PHC across the region.",
+      "Apart from minor criticisms, this work shall be handy and one of the best across the region, especially in Georgia.",
+      "The paper touches on an incredibly relevant, time-specific topic whereby primary health care have risen as an invaluable building brick of health systems globally.",
+      "Mixed-methods approach, narrative synthesis, complemented by documents' analysis, best suited to analyze complexities of PHC. Including recent (2002–2023) studies add credibility.",
+      "apers like this must get indexed so that they act as an encouragement factor to make other scholars think beyond the scope of this paper while widening the scope of their work.",
+      "Minor flaws are not enough to blemish the quality and worthiness of the paper.",
+      "The paper has minor flaws that outweigh these, which warrants my highest recommendation."
+    ]
+  },
+  {
+    "uid": "anoy1",
+    "score": -1.0,
+    "reasons": [
+      "In short, you should recognise that a few criteria might be used, although not definitively, to identify what is gambling and what is not.",
+      "Thus, it is likely that some or most of the \"problems\" identified are due to concomitant gambling and not trading."
+    ]
+  },
+  {
+    "uid": "anoy49",
+    "score": 1.0,
+    "reasons": [
+      "Further, it suggests how GIS can be used by the scientific community and policy-makers for informed decision-making.",
+      "The outcome of the study with various dimensions has been discussed.",
+      "The limitations have also been discussed.",
+      "My concern is that there are GIS specific journals and conferences organized by organizations like IEEE and ACM; have authors tried to explore those venues for better results? Why not?",
+      "​On the positive side, the authors have created thematic groups from the review, which is useful for readers."
+    ]
+  },
+  {
+    "uid": "anoy143",
+    "score": 1.0,
+    "reasons": [
+      "A useful taxonomy and interesting future directions have also been proposed."
+    ]
+  },
+  {
+    "uid": "anoy136",
+    "score": 1.0,
+    "reasons": [
+      "This review considers the contribution of Latin American research concerning Covid-19, which sets it apart from other reviews on this disease."
+    ]
+  },
+  {
+    "uid": "anoy36",
+    "score": 1.0,
+    "reasons": [
+      "It is an interesting piece of work."
+    ]
+  },
+  {
+    "uid": "anoy54",
+    "score": -1.0,
+    "reasons": [
+      "Since it is a short review, it is clear that this article lacks new contributions.",
+      "I would like to ask the authors what the contributions are."
+    ]
+  },
+  {
+    "uid": "anoy50",
+    "score": -1.0,
+    "reasons": [
+      "The authors express an interesting and most of the time shareable point of view about the negative impact of gene multifunctionality that influences gene network-based guilt-by-association studies.",
+      "In this respect, I totally agree with the authors that multifunctionality poses serious problems to function prediction algorithms.",
+      "Nonetheless, there are some minor points that I would suggest mitigating, as they sound too harsh and are, as far as I’m concerned, partly incorrect.",
+      "Looking at the F-measure results for top performing methods there is little to be happy about. There are the following additional issues coming out from CAFA:",
+      "Taking this into account, “protein binding” would have been inappropriate to use in the final evaluation because it would have rewarded BLAST and naïve methods artificially but penalized others.",
+      "n this respect, I totally agree with the authors that multifunctionality poses serious problems to function prediction algorithms."
+    ]
+  },
+  {
+    "uid": "anoy6",
+    "score": -1.0,
+    "reasons": [
+      "This is an overview article that uses a systematic review method to distil the main findings from already published research on human trafficking in Asia.",
+      "Overall, the piece is of a very general nature, does not advance theory and method, and merely summarises extant literature on human trafficking,"
+    ]
+  },
+  {
+    "uid": "anoy154",
+    "score": 1.0,
+    "reasons": [
+      "Finally, the paper identifies several limitations of current work and avenues for future work."
+    ]
+  },
+  {
+    "uid": "anoy104",
+    "score": -1.0,
+    "reasons": [
+      "However, it would benefit from a more critical evaluation of the limitations and challenges associated with these tools and a discussion of recent advancements in the field.",
+      "This article does not demonstrate an innovative character.",
+      "There are several reviews already published in this area.",
+      "This manuscript should draw attention to real innovations and aspects that have not yet been addressed in the literature.",
+      "However, the authors should provide a wealth of information on the various tools, it lacks critical evaluation and discussion of their limitations and challenges.",
+      "For instance, the paper does not discuss the cost, maintenance requirements, and calibration challenges that may arise when implementing these tools in food production settings.",
+      "The manuscript does not discuss recent advancements and developments in the field of sensory analysis technology.",
+      "Given the rapid pace of technological innovation, it would be beneficial to include information on any emerging tools or techniques that have been developed since the paper's publication."
+    ]
+  },
+  {
+    "uid": "anoy150",
+    "score": 1.0,
+    "reasons": [
+      "In addition, the survey discussed about risks, limitations and future of RPLAs.",
+      "5. Categorize and collect on research of risk of RPLAs from five perspectives: toxicity, bias, hallucination, privacy violation, technical challenges."
+    ]
+  },
+  {
+    "uid": "anoy128",
+    "score": -2.0,
+    "reasons": [
+      "These findings may be true but I fail to see relevance in the article; For who is it to be used for?",
+      "It may have achieved the goal of identifying MCT as ketogenic yielding (nothing new in the literature here) and excluded others but I fail to see the value of this research to anyone."
+    ]
+  },
+  {
+    "uid": "anoy142",
+    "score": -1.0,
+    "reasons": [
+      "In the review of current conflict's classification, a critique of the current state of the art is missing, moreover I would have classified somehow the reviewed papers, not simply summarizing them.",
+      "The survey results provided by the paper are valid but more quantitative results and graphs should be inserted to quantify the conclusions drawn by the authors."
+    ]
+  },
+  {
+    "uid": "anoy40",
+    "score": -1.0,
+    "reasons": [
+      "A common HindIII polymorphism in intron 8 (T/G) of the LPL gene has been found to be associated with altered plasma TG and HDL-cholesterol, and CAD risk in several studies, but they do not comment on its functional significance."
+    ]
+  },
+  {
+    "uid": "anoy22",
+    "score": 1.0,
+    "reasons": [
+      "This work is needed, as the number of tools of this type is increasing rapidly, and it is increasingly clear that they will play a prominent role in metascientific endeavors going forward."
+    ]
+  },
+  {
+    "uid": "anoy43",
+    "score": -2.0,
+    "reasons": [
+      "The aim of the protocol is unclear.",
+      "Here, on the other hand, the scope appears to be so broad.",
+      "More specifically, it is unclear whether the emphasis is on a survey of mathematical models and techniques developed in them, most of which are theoretical, or on the extraction of parameter values from epidemiological and observational studies.",
+      "Since COVID-19 is a disease affecting the entire world population, there are/should be no particular parameter values characterising fundamental properties of the virus, such as incubation and infectious periods, percentage of asymptomatic patients, etc., that would be unique to India as opposed to any other country, hence it is unclear why would one consider focusing on extracting these and similar parameters from Indian data only, and what would make them different from those used to study in other countries.",
+      "In summary, this might be an interesting protocol, but the authors should more clearly formulate the specific questions they are trying to address, and better motivate the need for studying them in light of thousands of studies looking at various modelling approaches for COVID-19, not to mention huge amounts of available data."
+    ]
+  },
+  {
+    "uid": "anoy162",
+    "score": -2.0,
+    "reasons": [
+      "In doing so, the treatment of each topics is shallow, incomplete, and ultimately of limited use for the reader.",
+      "For example, the section on efficient models introduces pruning, distillation, quantization, etc. as viable (or necessary) strategies to compress the models within target constraints but when later discussing on-device performance, it is never mentioned whether any of these technique is used, nor what the trade-offs are.",
+      "- some sections appear disjointed from the topic of the paper: several topics are mentioned and described to various extent, but it remains unclear whether they found practical application in real-world scenarios.",
+      "in my opinion, this review totally misses the mark."
+    ]
+  },
+  {
+    "uid": "anoy139",
+    "score": -1.0,
+    "reasons": [
+      "Related work improved, but there is no statement on how this paper goes beyond the findings reported by others.",
+      "What is the research gap the authors are trying to fill?",
+      "I am not sure how the guidelines and tools follow from the results of the survey.",
+      "Hence, the deducing facts about the world based on these numbers only is quite subjective.",
+      "The former are quite general (which is fine), the latter should be better contextualized in specific usage scenarios (and if possible, discipline related to CS)",
+      "Further, the authors provided a set of guidelines for reproducibility and discussed and compared existing tools for sharing and reproducing software artifacts",
+      "The survey design is detailed enough but suffers from a few shortcomings."
+    ]
+  },
+  {
+    "uid": "anoy105",
+    "score": 1.0,
+    "reasons": [
+      "More importantly, the treatment pathways to target SOST and DKK-1 were discussed profoundly.",
+      "The only flaw is the lack of SOST and DKK-1 in enamel formation, which does not affect the merits of this paper."
+    ]
+  },
+  {
+    "uid": "anoy84",
+    "score": 1.0,
+    "reasons": [
+      "The review is generally well done and overs a topic whose review is worthwhile and would act as an important resource for future studies regarding the use of this plant and its extract as a future potential therapy.",
+      "If these issues are addressed I fully recommend that the paper be accepted and indexed."
+    ]
+  },
+  {
+    "uid": "anoy88",
+    "score": -1.0,
+    "reasons": [
+      "On the other side, the review lacks of specific real-world data on systemic treatment in diverse patient subgroups, and authors should underline how comparative analysis of efficacy and safety among different therapies is also insufficient, limiting insights for treatment selection.",
+      "Additionally, there's a call for deeper exploration of liver disease etiology's influence on treatment outcomes and the necessity for further research to elucidate optimal therapy utilization and long-term effects.",
+      "Acknowledging the importance of real-world efficacy, it highlights the need for further research in specific patient subgroups.",
+      "Lastly, the study recognizes the evolving nature of HCC treatment, emphasizing personalized approaches based on advancing understanding and accumulating data."
+    ]
+  },
+  {
+    "uid": "anoy91",
+    "score": -1.0,
+    "reasons": [
+      "State the research gap and novelty of the presented review.",
+      "State the importance of the present review.",
+      "Provide critical analysis of the status of the parametric optimization of solar PV.",
+      "Prioritize the parameters influencing the solar PV output power.",
+      "Add the authors' own discussion and recommendations on performance enhancement technologies."
+    ]
+  },
+  {
+    "uid": "anoy25",
+    "score": -1.0,
+    "reasons": [
+      "Clear and reasonable justification is given for excluding ‘resource implications’, but the justification for excluding ‘equity’ remains somewhat unclear.",
+      "Are the authors contending that equity cannot be appropriately assessed via systematic review or that it is unnecessary to do so because equity considerations can be derived from other sources?",
+      "If the latter, the argument put forth appears somewhat weak (as could be true of all factors) and is also perhaps better placed in the paragraph below alongside the justification for excluding ‘resource implications’."
+    ]
+  },
+  {
+    "uid": "anoy152",
+    "score": 1.0,
+    "reasons": [
+      "Moreover apples-to-apples comparisons of these approaches (done quite well in this work) is often very difficult to do — typically numbers are just cited from prior papers with little effort to standardize on backbones or hardware.",
+      "One surprising outcome for example is that older architectures like SSD are shown to still be somewhat competitive when evaluated using comparable backbones that today’s architectures use.",
+      "This survey contains good coverage of many modern architectures and some of the specific focuses in this work (e.g. real time inference, out-of-distribution performance) separate it from prior object detection surveys.",
+      "On the other hand, it’s worth at least discussing some of the apples-to-apples choices more carefully.",
+      "Also, as far as I can tell, there are no details given about the specific implementations used of each architecture here. Did the authors reimplement everything? If so, how did they verify that the were able to capture the original authors’ implementation faithfully?",
+      "But of course in practice, we’d often use a much higher threshold which would reduce the NMS portion of compute. Thus setting a confidence threshold of 0.4 is more about achieving a particular precision/recall tradeoff"
+    ]
+  },
+  {
+    "uid": "anoy32",
+    "score": 2.0,
+    "reasons": [
+      "This is a relevant paper providing needed perspectives on interventions to reduce the harm caused by alcohol.",
+      "I think the paper is acceptable to be indexed in its current form, and may be useful to many practitioners."
+    ]
+  },
+  {
+    "uid": "anoy17",
+    "score": 1.0,
+    "reasons": [
+      "In their work, Diederich et al. propose a detailed protocol for the systematic comparison of age and sex of mice used to model relevant human diseases, like Alzheimer's disease (AD), stroke, type 2 diabetes, ischemic heart disease, and chronic obstructive pulmonary disease.",
+      "The study is timely as addresses an important topic at the intersection between basic and clinical research, with implications for translability, study design, and data interpretation."
+    ]
+  },
+  {
+    "uid": "anoy123",
+    "score": -1.0,
+    "reasons": [
+      "I think that the argument that the review is essential is still not a strong argument since no actual new reasoning has been added.",
+      "I am still not convinced that single case studies will provide much information."
+    ]
+  },
+  {
+    "uid": "anoy133",
+    "score": -1.0,
+    "reasons": [
+      "A review article should not merely be a collection of previously published papers.",
+      "As required by PeerJ, a Literature Review should have a conclusion part identifying unresolved questions/gaps/future directions about the field (https://peerj.com/about/author-instructions/#literature-review-sections).",
+      "In this part, the authors may summarize their review of the technical aspects of RNA FISH and provide their view on the future development of the FISH technique.",
+      "In the last paragraph of the “Hybridization” part, where the authors discuss the hybridization conditions, the statement “three parameters regarding hybridization: salt concentration; hybridization temperature; and duration of hybridization” is not complete, as the pH value of the hybridization buffer is also an important parameter to affect the stringency of the hybridization."
+    ]
+  },
+  {
+    "uid": "anoy145",
+    "score": -1.0,
+    "reasons": [
+      "Each section and each point has to be discussed in much more detail.",
+      "The authors superficially discuss the ideas of various works and do so in a rather heterogeneous manner with separate paragraphs dedicated to separate papers.",
+      "Conclusions on various aspects of the study are not drawn.",
+      "The authors talk about the issues based on the contributions of various endeavors but do not draw appropriate conclusions based on these.",
+      "I would prefer a much more detailed analysis of the issues around privacy and its breach first in a general context and subsequently specifically with respect to the pandemic and the tracing apps."
+    ]
+  },
+  {
+    "uid": "anoy121",
+    "score": -1.0,
+    "reasons": [
+      "Multiple recent review articles have been published addressing a similar topic, the authors need to highlight what is new and different from what has been recently reviewed in the literature.",
+      "The comparison in Table 1 is somehow oversimplifying the differences generalizing the features of some AMPs overall antibiotics based on findings in a very limited number of studies."
+    ]
+  },
+  {
+    "uid": "anoy156",
+    "score": -1.0,
+    "reasons": [
+      "A few claims are not well supported or need rephrasing.",
+      "The non-stationary is not caused by using the policy in the training objective.",
+      "It's caused by the training data being collected using an ever-changing policy.",
+      "This is a timely survey for an emerging and promising research area."
+    ]
+  },
+  {
+    "uid": "anoy57",
+    "score": -1.0,
+    "reasons": [
+      "I believe the evidence supports the contention that human-type intelligence has many maladaptive aspects, but I am not convinced that the issue is evolutionary.",
+      "The argument that human-type intelligence is maladaptive fits into an existing literature, which is largely not cited.",
+      "But are the mechanisms gravitating against human intelligence in animals other than humans evolutionary?",
+      "That is much less clear.",
+      "No other species has, to our knowledge, come close to destroying the environment in the way humans have.",
+      "There is no evidence that, because they started destroying the environment, evolution of human-like intelligence stopped.",
+      "Moreover, for an evolutionary mechanism to take hold, the maladaptive trait would likely interfere with reproductive capability, but the people who destroy the Earth are mostly professionals, from politicians to corporate leaders, who are largely past reproductive age.",
+      "By the time they succeed in destroying the environment, they are older.",
+      "Serious mental illness, cited in the article, can interfere with reproduction, but it seems to apply to relatively small proportions of the human population."
+    ]
+  },
+  {
+    "uid": "anoy108",
+    "score": -1.0,
+    "reasons": [
+      "This review offers a similar set of guidelines, targeted specifically at the field of biomedical informatics, and draws on the experience of the authors on building their own tools.",
+      "There is one less positive aspect of this review, which is anyway transversal to most such attempts at ‘guidelines’ for bioinformatics software development.",
+      "As the authors note, most of these tools are created to solve one very specific problem, or process a very specific dataset.",
+      "These are not amenable to test-driven development, or to continuous integration.",
+      "Thus, I believe that it is important to show and teach such users very very simple programming rules, namely about how to make their code readable for others."
+    ]
+  },
+  {
+    "uid": "anoy73",
+    "score": -2.0,
+    "reasons": [
+      "Without integrating data from the potential of reduced-risk tobacco product studies, the authors’ claim that these findings from COPD biomarkers will benefit tobacco product research are not valid.",
+      "Framing this in the title/abstract as an unbiased review evaluating BoPH for use in general tobacco research seems inaccurate when the literature search used to select articles explicitly required one of the lung disease-associated words “COPD or Emphysema or Bronchitis or Asthma or Obstruct”.",
+      "Much of the text focuses explicitly on biomarkers of COPD and in some cases the intersection of smoking and COPD, but there is not much discussion of biomarkers that differ with tobacco use specifically.",
+      "This would be an important area where more research is needed for the identification of early biomarkers of lung disease as well as identifying potential for a reduced-risk tobacco product.",
+      "The limitations in biomarker literature should be clearly defined and how to overcome this in future studies should be discussed later in the review before the conclusion section."
+    ]
+  },
+  {
+    "uid": "anoy34",
+    "score": -1.0,
+    "reasons": [
+      "The combination of historical analysis, engineering insights, and cultural narratives enriches the discussion.",
+      "The discussion on iron usage and rust-resistant techniques is fascinating.",
+      "How were these sources validated for accuracy?",
+      "However, the decay rate comparison with Western structures like St. Paul’s Cathedral might need more quantitative backing with geological studies."
+    ]
+  },
+  {
+    "uid": "anoy21",
+    "score": 1.0,
+    "reasons": [
+      "This is an important well-written article that will contribute to the literature in public health.",
+      "The authors have done a great job putting this together and I would recommend that this review is published."
+    ]
+  },
+  {
+    "uid": "anoy5",
+    "score": 2.0,
+    "reasons": [
+      "I would like to congratulate you on this outstanding piece of work.",
+      "Your article is highly engaging, well-written, and clearly articulated, making it a valuable contribution to the academic field.",
+      "Once again, congratulations on this excellent article, and thank you for your valuable contribution."
+    ]
+  },
+  {
+    "uid": "anoy15",
+    "score": -1.0,
+    "reasons": [
+      "A clear conclusion with feasible recommendations to come to evidence pro or con, or at least a nuancing in the pro and con of pre-injection aspiration would certainly contribute, as this is not really expressed."
+    ]
+  },
+  {
+    "uid": "anoy70",
+    "score": -1.0,
+    "reasons": [
+      "It is an interesting article that presents useful information on the subject of COVID-19. It is well presented, only it has a methodological error, which limits the results and its scope"
+    ]
+  },
+  {
+    "uid": "anoy83",
+    "score": -1.0,
+    "reasons": [
+      "However, I would like to recommend to add more details on the underlying mechanisms of pathophysiological details in immunocompromised individuals.",
+      "This literature review beautifully explains the recently discovered monkeypox infection in the context of immunocompromised patients."
+    ]
+  },
+  {
+    "uid": "anoy71",
+    "score": -1.0,
+    "reasons": [
+      "This insight on other coronaviruses and pregnancy is very interesting.",
+      "Nevertheless, it adds little information about the management of the current COVID-19 disease.",
+      "Were there statistical analysis?"
+    ]
+  },
+  {
+    "uid": "anoy93",
+    "score": -2.0,
+    "reasons": [
+      "This is incorrect, studies have proven comparable symptoms relief outcomes and still need further confirmation.",
+      "- Emerging therapeutic strategies: again, the paragraph is very limited and does not provide any constructive and new information.",
+      "New techniques are only partially included and just mentioned, with no informative content.",
+      "- Standard management approaches: the paragraph is very limited providing only summarised list of some of the current therapies, both pharmacological and surgical.",
+      "- Addressing complications and comorbidities: this paragraph is redundant and little informative."
+    ]
+  },
+  {
+    "uid": "anoy95",
+    "score": -1.0,
+    "reasons": [
+      "Authors, need to discuss and analyze the reported data for various physico-chemiccal, mechanical and biological outcomes of various developed and evaluated implants through in-vitro and in-vivo studies.",
+      "Also, need to discuss advantages and challenges.",
+      "Overall, authors need to revise the complete manuscript with some reported data, compare the reported work and allow the reader to get insight on recent trends in development of pectin and chitosan based drug delivery system and implants for biomedical applications."
+    ]
+  },
+  {
+    "uid": "anoy20",
+    "score": 1.0,
+    "reasons": [
+      "Using the synthesized evidence, they also developed a framework as a guide for reducing PTLFU.",
+      "Therefore, this publication would be of great significance."
+    ]
+  },
+  {
+    "uid": "anoy66",
+    "score": -1.0,
+    "reasons": [
+      "In the section of \"Conclusions\" a general summary is given, but the authors' position and critical stance on the subject is missing.",
+      "The arguments need a more thorough and concise documentation and critique.",
+      "I think it is necessary the writers to state how the three research questions are interconnected and related theoretically."
+    ]
+  },
+  {
+    "uid": "anoy29",
+    "score": -1.0,
+    "reasons": [
+      "I think the authors should also discus their interesting findings from the point of view: how good are the Cochrane authors?",
+      "E.g. we know from numerous studies (e.g., Rebecca M Turner et al.) that 80% to 90% of all Cochrane reviews do not reach a fair meta-analytic sample size providing the necessary power to assess medium large and small (but still clinically relevant) intervention effects.",
+      "How come then that almost 66% of reviews do not mention larger sample sizes?"
+    ]
+  },
+  {
+    "uid": "anoy146",
+    "score": -1.0,
+    "reasons": [
+      "In contrast to other TMLR submissions I have read, this paper does not offer any novel theoretical or empirical results: instead, it provides a didactic summary of existing work on neural collapse.",
+      "While surveys can certainly be useful tools to help bring people up to speed on an emerging literature, this one in particular faces two principal limitations: the field of neural collapse is still very nascent and so the burden of reading the literature is relatively light, and the paper doesn't provide much significant insight above and beyond that provided by the works it discusses.",
+      "- While the paper claims to \"analyse NC modelling techniques by unifying them under a common set of principles,\", I was not able to determine what exactly this common set of principles was that was missing from the literature.",
+      "It is not always clear where a derivation is new (and is thus replicating prior results under a unified framework) vs where it closely follows the cited text."
+    ]
+  },
+  {
+    "uid": "anoy118",
+    "score": -1.0,
+    "reasons": [
+      "Yet, in my following reading of the paper, I got very limited new knowledge in these areas.",
+      "Majority of the content goes to the detailed introduction of different vitamins which can be found in many popular science articles on the internet.",
+      "However, I don't see enough content to support their conclusion.",
+      "In my opinion, the review provides very limited novel insights or raise any unresolved questions in the field."
+    ]
+  },
+  {
+    "uid": "anoy74",
+    "score": 1.0,
+    "reasons": [
+      "The topic is timely and important."
+    ]
+  },
+  {
+    "uid": "anoy75",
+    "score": -1.0,
+    "reasons": [
+      "However, it seems that the manuscript currently has a selective focus on the therapeutic effects of DTCs in liver, lungs, and kidney, but it lacks comprehensive coverage of the therapeutic effects of DTCs on sepsis."
+    ]
+  },
+  {
+    "uid": "anoy48",
+    "score": -2.0,
+    "reasons": [
+      "The authors, however, need to be bolder and more analytical.",
+      "This is an opinion piece, yet I see little opinion.",
+      "The paper would be both more compelling and useful to a broad readership if the authors moved beyond providing a simple summary of the landscape and examined why there is controversy in some areas and then use the evidence they have compiled to suggest a path forward.",
+      "I think this oversimplification inhibited some deeper analysis in other areas as well.",
+      "I would like to see more examination of the validation requirement beyond the lens of peer review, and I would like a deeper examination of incentives and credit beyond citation.",
+      "The authors discuss some of this in what they call “independent data validation,” but they don’t draw any conclusions.",
+      "The authors discuss some of this in their examples like the PDS and tDAR, but I wish they were more analytical and offered an opinion on the way forward.",
+      "The discussion of data citation was good and captured the state of the art well, but again I would have liked to see some views on a way forward.",
+      "It is possible that the definitions of “publication” and “peer-review” need not be just stretched but changed or even rejected.",
+      "A certain view is implied by the organization of the paper and the references chosen, but they could be more explicit.",
+      "The authors take a rather narrow view of data publication, which I think hinders their analyses.",
+      "I thought the validation section of the paper was very relevant, but somewhat light.",
+      "They overstate some difficulties of peer-review (No-one looks at every data value? No, they use statistics, visualization, and other techniques.) while not fully considering who is responsible for what. We need a closer examination of different roles and who are appropriate validators (not necessarily conventional peers)."
+    ]
+  },
+  {
+    "uid": "anoy127",
+    "score": -1.0,
+    "reasons": [
+      "1. It would be good to include discussion on how ERP paradigms, features of study populations and dosage and lengths would affect the results.",
+      "The authors have briefly mentioned some of these either in main text or table, it might be worth the address a little bit in discussion and consider how these would inform future research.",
+      "Should the authors highlight what additional knowledge has bee added by this review.",
+      "The topic is interesting and important.",
+      "As EEG is not very sensitive to structure change, it might be worth to link the current ERP findings with recent MRI findings in the discussion and see if there are consistent trend."
+    ]
+  },
+  {
+    "uid": "anoy78",
+    "score": -1.0,
+    "reasons": [
+      "I recommend accepting it with the following major changes that can complement the text content:",
+      "3. It has been more than thirty years since the first biodesulfurization bacterium was discovered, but the biodesulfurization technology has not been industrialized yet.",
+      "Please summarize the existing problems in detail."
+    ]
+  },
+  {
+    "uid": "anoy26",
+    "score": 1.0,
+    "reasons": [
+      "The discussion is well elaborated for a narrative review."
+    ]
+  },
+  {
+    "uid": "anoy119",
+    "score": -1.0,
+    "reasons": [
+      "This result might seem worrying.",
+      "However, taken together, studies on animal personality and practical implications (management, welfare, health, conservation) accounted for 45% (69% including social behaviour) (Tab 3).",
+      "Thus, the opposite is truth, which should be acknowledged.",
+      "It would be also beneficial for the researchers and the field in general to see whether the research on practical implications changed and how since Freeman and Gosling (2010).",
+      "Specifically, authors could compare the number of studies on primate personality and practical implications (welfare, conservation, management) between 2 periods (2000-2010 vs. 2010-2020) to see whether there is actually a decreasing or increasing trend to study this issue nowadays.",
+      "Moreover, the authors could evaluate which topics are currently studied and which are understudied and how the field developed (e.g. by comparing the information to Coleman et al. 2012 who introduced very similar areas).",
+      "New topics are e.g. the social networks, psychological well-being and missing are studies on interactions with caretakes.",
+      "Thus, authors could give more specific recommendations to set the future direction of research.",
+      "Finally, I would like to encourage the authors to include a paragraph on possible other (specific) implications relevant to the zoo and other captive management, either based on research done on other non-primate species in captivity or on their professional opinion (based on their practical experience).",
+      "The authors can be specific and identify underrepresented taxa and other areas based on their review."
+    ]
+  },
+  {
+    "uid": "anoy82",
+    "score": 1.0,
+    "reasons": [
+      "The paper is an important addition to the literature.",
+      "It can be indexed after minor revision."
+    ]
+  },
+  {
+    "uid": "anoy129",
+    "score": -1.0,
+    "reasons": [
+      "I think though that the authors need to qualify that patient education, although generally a more effective strategy when compared to direct HCP approaches, may not be suitable for older cognitively impaired residents of nursing homes or people with advanced stages of dementia.",
+      "This is not stated and I think it needs to be.",
+      "Tables are sound. Experimental design Mostly well done review Validity of the findings Mostly good"
+    ]
+  },
+  {
+    "uid": "anoy81",
+    "score": -2.0,
+    "reasons": [
+      "Well, that is not true, or you have to review that.",
+      "Now you can get the feeling we are forced to use biosensors and TDM based on an unjustified argument.",
+      "The authors state that TDM is essential and necessary in the first paragraph followed by the statement that it will optimize treatment outcome.",
+      "Now nobody will deny that correct dosing is an important activity in medicine, but whether TDM improves outcome is too my knowledge not common sense.",
+      "I feel we have to see the potential of TDM, and the necessity to examine its effects on outcome, and other endpoints, but just saying it is essential and necessary is, for now, untrue.",
+      "This statement is far too blunt.",
+      "Why should microneedle the preferred method of tracking?",
+      "I would see direct measurement in the circulation, or at the place of infection, is the preferred method.",
+      "Furthermore, for beta-lactam, they do not measure the antibiotic, but metabolic changes with might be caused by antibiotics, in healthy humans.",
+      "Digoxin is not an antibiotic."
+    ]
+  },
+  {
+    "uid": "anoy53",
+    "score": -2.0,
+    "reasons": [
+      "The review has not answered the stated research questions, especially regarding Kisumu County.",
+      "Recommendations based on findings from Kisumu County based on empirical evidence are conspicuously missing, which is obviously not stated in this paper.",
+      "The results do not highlight studies that have been done on structural linkages between households and community health services, especially in this study, which begs the question: have we answered the research questions and are we linking our findings to the research topic?"
+    ]
+  },
+  {
+    "uid": "anoy41",
+    "score": -1.0,
+    "reasons": [
+      "It is essential to critically assess the existing literature and identify gaps, inconsistencies, and areas of agreement, thereby situating the current research within this broader framework.",
+      "In addition, the authors should articulate how their findings contribute to a larger body of knowledge, emphasizing their significance and potential implications for future research and practice.",
+      "By doing so, the authors not only reinforce the relevance of their work but also invite further dialogue and investigation within the academic community.",
+      "Additionally, this analysis serves as a vital resource for government agencies, researchers, and other stakeholders, enabling them to closely monitor these trends."
+    ]
+  },
+  {
+    "uid": "anoy134",
+    "score": -1.0,
+    "reasons": [
+      "1. The authors only compare MHO to MHNO / MHNW.",
+      "However, also MUO (metabolically unhealthy obesity) is of interest.",
+      "Studies show that cardiovascular risk in MHO is higher than the CVD risk in MHNO, but lower than the CVD risk of MUO.",
+      "Thus, the message might be that improving one’s metabolic profile may be worthwhile even if the person remains obese.",
+      "Striving to achieve normal weight – as the authors put it – and keeping normal weight is hard, so MUO may at least be a first intermediate goal which helps to reduce CVD risk (or risk of CAC progression)."
+    ]
+  },
+  {
+    "uid": "anoy24",
+    "score": -1.0,
+    "reasons": [
+      "The results of the study were only informative.",
+      "It lacks the scientific quality of this study.",
+      "The results and conclusions are repetitive.",
+      "The literature review should be thorough deeply and the scientific aspect of the study should be made clear by presenting the results in a way that supports the conclusion."
+    ]
+  },
+  {
+    "uid": "anoy46",
+    "score": -1.0,
+    "reasons": [
+      "The article is very broad and, in many places highly speculative.",
+      "This makes claims about animal perception in general difficult to state with authority unless they are so broad as to be meaningless or at least unhelpful.",
+      "I suspect many readers familiar with these issues would be skeptical about the utility of making generalisations at all.",
+      "The author needs to be careful though that their hypothesis that it might apply beyond primates and in specific cases, doesn't get confused even loosely with the \"truth\" of this, and hence its relevance.",
+      "Overall I think a survey/position paper like the one presented here is relevant and helpful",
+      "I still have some major reservations about the article as it stands and would recommend a few changes prior to its finalisation.",
+      "This contributes to my perception that the article is biting off a little more than can be chewed in a single publication.",
+      "But I am not sure if any measure of initial confusion, discomfort, or any unusual neural activity, might have been recorded experimentally to ascertain the presence of the valley."
+    ]
+  },
+  {
+    "uid": "anoy35",
+    "score": -2.0,
+    "reasons": [
+      "Although the authors provide the reason for the high prevalence of this disease among surgeons, the reason for conducting the SR and MA is unclear.",
+      "There is no reasonable justification for conducting this study.",
+      "I would like to see the heterogeneity in the studies in this field, which shows the necessity for conducting this systematic review.",
+      "I cannot understand how the results will add to the present knowledge of CTS among dental surgeons and the benefits of the results in practice.",
+      "On the other hand, the audience for this study could be more precise for me."
+    ]
+  },
+  {
+    "uid": "anoy140",
+    "score": -1.0,
+    "reasons": [
+      "While my previous comment on validity of findings was partially addressed, I still expect a deeper discussion on research gaps and future opportunities, specifically in combining BPMN and operational research.",
+      "Open topics for future research should be identified more clearly."
+    ]
+  },
+  {
+    "uid": "anoy9",
+    "score": -1.0,
+    "reasons": [
+      "The size and scope of the project limits it's utility, given the lack of bias assessment for each article and lack of clarity comparing outcomes and healthcare costs across vastly different healthcare systems.",
+      "Not registered prospectively.",
+      "The authors conclude \"Our findings indicate that patients with HF experience a greater humanistic burden and incur higher economic costs than individuals without HF or patients with other chronic diseases\" and this conclusion is outside the reach of the review and would be better worded: \"Our findings indicate that patients with HF experience a greater humanistic burden and incur higher economic costs than individuals without HF\" as there is insufficient scope to comment on other chronic diseases."
+    ]
+  },
+  {
+    "uid": "anoy97",
+    "score": 2.0,
+    "reasons": [
+      "Parameter effects are critically discussed for each topic; flat, inclined, and vertical surfaces.",
+      "The results of this research will help the scientific community help reduce post-processing requirements on 3D printed components.",
+      "The research paper is good and can be indexed."
+    ]
+  },
+  {
+    "uid": "anoy135",
+    "score": 1.0,
+    "reasons": [
+      "Comment: Thorough analysis and interpretation of the results was conducted.",
+      "Validity of the findings- All underlying data have been provided, they are informative and support the validity of the results."
+    ]
+  },
+  {
+    "uid": "anoy18",
+    "score": -1.0,
+    "reasons": [
+      "There is little exploration of the implications of having a majority of apps focused on goal setting rather than behaviour change.",
+      "The discussion mentions similarities with previous studies but does not provide a detailed comparison or analysis of how the current findings add to or differ from existing literature.",
+      "The recommendation for developing more behavior change-focused apps lacks specificity and concrete suggestions on features.",
+      "Statistical analyses used in the review seem basic thus undermining the actual benefits of the application and how it could be practically applied.",
+      "Further explanation of statistical tests, confidence intervals, and potential confounding factors would enhance the clarity and rigor of the analysis.",
+      "Additionally, providing more detail on the interpretation of correlations and the significance of app focus trends would strengthen the discussion of results."
+    ]
+  },
+  {
+    "uid": "anoy92",
+    "score": -1.0,
+    "reasons": [
+      "However, the clinical data is limited, as the case reports and the prospective study together account for only 50 patients.",
+      "Given this lack of robust clinical evidence, the conclusions of the manuscript should be interpreted with caution.",
+      "In addition, the second part of the conclusions \"The intraoral repair utilizing resin-based composite materials has significant advantages since it retains most of the restoration, prevents needless loss of healthy tooth structure, and is a quick and simple, reasonably priced procedure with no need for repeated sessions. The skills of the clinicians in using these tools and techniques as well as adherence to prescribed procedures and protocols are crucial to the effectiveness of these treatments.\" although logical, is not supported by the articles included in this review."
+    ]
+  },
+  {
+    "uid": "anoy62",
+    "score": 1.0,
+    "reasons": [
+      "This particular article offers an interesting insight on the possible applications and consideration of the camel meat as a potential source for meat production.",
+      "Another interesting aspect of the offered study is the technological aspects section which represents the potential strategies for the exploitation of camel meat as an environment friendly substitute to red meats as well as potential methods for its storage/shelf life extension.",
+      "In general, this article offers a concise and complete study around the use and application of camel meat as a novel source of meat products and their derivatives while respecting the appropriate steps to introducing a review article and offering an open invitation towards potential studies with clear and relevant perspectives and recommendations."
+    ]
+  },
+  {
+    "uid": "anoy2",
+    "score": -1.0,
+    "reasons": [
+      "However, I found that some sections were not thoroughly explored and the authors would do well by deepening their literature review and expanding on their ideas.",
+      "As the article is now, an “opinion piece” seems more appropriate.",
+      "What is explicitly missing from this article is the how piece... How does language revitalization lead to better health?",
+      "Is it due to enhanced sense of identity (as Chandler and Lalonde argue)?",
+      "Enhanced spiritual health?",
+      "Enhanced sense of community/belonging?",
+      "The provision of strong role models that teach the language?",
+      "Protection from early life traumas?",
+      "There is also an entire field of neurological research that has looked at how learning multiple languages can impact the brain and health.",
+      "The authors would do well to explore these different areas and give the reader an idea on the how.",
+      "Moreover, has there been research that has shown not shown a relationship between language and health?",
+      "Perhaps the authors could expand on what these health assessments may look like?",
+      "What should be measured and how?"
+    ]
+  },
+  {
+    "uid": "anoy52",
+    "score": 1.0,
+    "reasons": [
+      "This is a timely and much-needed paper that deserves to be widely read and cited.",
+      "It provides the first systematic review and meta-analysis of old epidemiological data pointing towards a long-acknowledged association between HPTs and birth defects.",
+      "More optionally, the authors might consider reflecting on the extent to which the association they identify implies a causal association. An association between the use of HPTs and birth defects has long been recognised and was rarely in dispute. Many experts explained the association in terms of a suspected though as unknown direct mechanistic effect of HPTs on the developing human embryo. Others, however, preferred to explain the association in terms of underlying factors, e.g., a patient history of miscarriage or birth defects. This view, which still has traction in some quarters, is discussed to some extent in Olszynko-Gryn et al. (20182) (pp. 39-41). The authors might usefully offer a fresh perspective based on their findings, in the Conclusion and/or in the interesting discussion of unknown mechanisms on p. 16."
+    ]
+  },
+  {
+    "uid": "anoy151",
+    "score": -2.0,
+    "reasons": [
+      "(W1): The paper makes fundamental errors confounding single-step reaction prediction with multi-step planning.",
+      "In contrast, the proposed paper confuses the two, and claims several times (both in the text, e.g. \"strong template-based methods are based on tree search\", and in the taxonomy in Figure 3) that multi-step search algorithms are a subclass of template-based models, which is just not true; many prior works run search using template-free or semi-template-based models as well [2-4].",
+      "Overall I found that the way prior works are organized and summarized is not very helpful.",
+      "I would hope for a more systematic and useful breakdown of the different methods, which would require many tables looking at different axes of comparison.",
+      "While the work done by the authors is a good initial step, I believe the paper would need a major revision to be acceptable for publication at TMLR."
+    ]
+  },
+  {
+    "uid": "anoy23",
+    "score": 2.0,
+    "reasons": [
+      "An excellent article in which the authors exerted a great and wonderful effort and discussed an extremely important topic for HCP, patients and health in general:"
+    ]
+  },
+  {
+    "uid": "anoy11",
+    "score": 1.0,
+    "reasons": [
+      "I commend the authors for noting that “the chance of an irreproducible finding is much higher than the commonly noted 5% threshold.”",
+      "This is widely under-appreciated, even by well-trained scientists."
+    ]
+  },
+  {
+    "uid": "anoy99",
+    "score": 1.0,
+    "reasons": [
+      "Certainly, I gained several new insights and research ideas from reading this review.",
+      "I really enjoyed reading this review as it provides both a historical account of the progress made in using molecular approaches and a current-day account and outlook of where the study of anemonefish biology will likely lead us.",
+      "They propose that anemonefish are an ideal model for studying ecological, evolutionary and developmental processes because they show traits shared across teleosts and vertebrates and many unique features that set them apart.",
+      "The authors do a great job of describing the transcriptomic research that has taken place to investigate sex change in anemonefish, noting that a brain-to-gonad axis exists in these fishes. However, the timing and speed at which these changes occur still need to be debated."
+    ]
+  },
+  {
+    "uid": "anoy38",
+    "score": -1.0,
+    "reasons": [
+      "There seems to have been no attempt to quantify the dose of DMSO which patients have received or to characterize the severity of the reactions and relate these.",
+      "Furthermore DMSO is usually a vehicle to facilitate giving the patient some other treatment e.g. a stem cell transplant or drug so the reasons for the use of DMSO are not clear.",
+      "This also means there are side effects from the drug or treatment facilitated by the DMSO; is it possible to separate these effects in any way?",
+      "Do the authors of the many papers selected for analysis recommend an upper limit to the amount of DMSO given or have a strategy for minimising the dose?",
+      "However as long ago as 2005 it was possible to identify severe side effects in an appreciable number of cases (Windrum et al., 20051).",
+      "Furthermore although they do not separate the factors responsible the authors of reference 7 record a SAE (Grades 3, 4 and 5) profile in excess of 3%.",
+      "The authors should possibly be a little more circumspect in this paragraph particularly as they recommend the use of DMSO in (unspecified) small doses."
+    ]
+  },
+  {
+    "uid": "anoy94",
+    "score": 2.0,
+    "reasons": [
+      "The authors performed a systematized analysis of the publications reporting the anticancer activity of tocotrienols in all types of human cancer cell lines, to provide valuable insights into the molecular mechanisms underlying its antiproliferative action.",
+      "The information gathered here provides a starting point for more specific future studies to fully dissect the pathways by which tocotrienols exert their action.",
+      "This is a fundamental step in bringing these natural products with promising antitumor activity to the clinic."
+    ]
+  },
+  {
+    "uid": "anoy13",
+    "score": -1.0,
+    "reasons": [
+      "I am all in favour of publishing negative findings but to confidently reject the genetic interpolation hypothesis it would be appropriate to test exposure to several different articles, claiming genetic influence on other types of complex behaviours, more or less believable (e.g. marriage, travelling, physical activity) and see if these also have no effect or participants' beliefs.",
+      "I think it would greatly benefit from additional empirical evidence (in order to firmly dismiss the genetic interpolation hypothesis) or it should be otherwise rewritten as a much shorter report, clearly describing the study as a replication of previous null-findings, rather than arguing at length for an hypothesis with little or none empirical support."
+    ]
+  },
+  {
+    "uid": "anoy77",
+    "score": 1.0,
+    "reasons": [
+      "The mini-review can be Approved after these minor corrections.",
+      "Overall, the mini-review captures all 4 pillars of heterogeneity: genetics, transcriptomics, immunogenomics, and sex."
+    ]
+  },
+  {
+    "uid": "anoy149",
+    "score": -1.0,
+    "reasons": [
+      "One complaint I have is that many sections (especially the ones I’m not familiar with) read like a list of paper summaries.",
+      "There is no way for me to tell which method I should be using at the end.",
+      "It’s unclear what my takeaway is after reading some of the sections.",
+      "I would appreciate it more if the authors highlight the mostly used and most promising approaches in each section.",
+      "Hopefully there could be a figure and a discussion on backward pass and how it saves time and memory.",
+      "For quantization (Section 2.1), I would appreciate a discussion on the tradeoff between compression rate and quality."
+    ]
+  },
+  {
+    "uid": "anoy47",
+    "score": 1.0,
+    "reasons": [
+      "This scoping review on post-award reporting is interesting, robust, timely, and for the most part well-written.",
+      "Methods were well-detailed and followed JBI scoping review standards."
+    ]
+  },
+  {
+    "uid": "anoy144",
+    "score": -2.0,
+    "reasons": [
+      "I am not convinced by this argument.",
+      "The overall number of publications in computers science is steadily increasing, so the absolute number of papers does not say much."
+    ]
+  },
+  {
+    "uid": "anoy158",
+    "score": -1.0,
+    "reasons": [
+      "1). The in-depth relationship between different types of methods can be further discussed.",
+      "The experiment part of the current draft is quite weak, and lots of critical details are not clearly discussed.",
+      "Moreover, I also encourage the authors to further discuss the advantages and disadvantages of different types of methods in experimental evaluations (e.g., the memory overhead, the training time, and the generalizability)."
+    ]
+  },
+  {
+    "uid": "anoy114",
+    "score": -1.0,
+    "reasons": [
+      "I have problems with the author’s proposed classification of PIs into ER stress inducers and Akt inhibitors (Abstract and Conclusion).",
+      "Ritonavir is listed as an ER stressor only (conclusions “9”), but has been identified by several researchers to cause both ER stress and Akt inhibition.",
+      "Furthermore, according to our experience, the ability of PIs to reduce Akt activity appears to be dependent on the cell line(s) used.",
+      "Our group also observed enhanced Akt phosphorylation by nelfinavir in cell lines with low endogenous Akt activity, and Akt activation is also a known response to ER stress.",
+      "Independent of this, there is also a controversy in the literature about the ability of nelfinavir to inhibit proteasomal activity."
+    ]
+  },
+  {
+    "uid": "anoy86",
+    "score": -2.0,
+    "reasons": [
+      "Currently the paper looks like preliminary data.",
+      "It need to be reworked in detail.",
+      "The merits and demerits of using herbal druhs, their dosing and toxicity studies need to documented properly."
+    ]
+  },
+  {
+    "uid": "anoy163",
+    "score": 1.0,
+    "reasons": [
+      "Connecting theoretical insights from recent studies provides useful context.",
+      "The sample complexity analysis showing detection improves with more text is an important insight.",
+      "Categorizing methods into \"towards possibilities\" and \"towards impossibilities\" offers a useful framework.",
+      "The arguments around possibilities vs impossibilities could be presented in a more balanced manner, as both highlight important caveats.",
+      "Thoroughly reviewing detection schemes like watermarking, zero-shot, and classifier-based methods gives a good overview of current techniques.",
+      "The discussion of open questions identifies critical challenges like evaluating detectors, improving robustness, and leveraging prompt knowledge.",
+      "Examples illustrating detection scenarios and requirements in areas like social media, academia, and customer support are insightful."
+    ]
+  },
+  {
+    "uid": "anoy112",
+    "score": -2.0,
+    "reasons": [
+      "I do not feel the presented results are convincing enough to provide a deeper insight into the mechanism of the aggregation phenomenon.",
+      "This review does not reflect the complexity of the theme and often runs into simplified conclusions in this respect.",
+      "I think that the conclusions go beyond the scope and validity of the results, in particular ‘birth, transformation and death of proteins’.",
+      "This process is so complex and presented in an over-simplified manner here.",
+      "Overall, I feel the review – although many experimental data are presented – to be speculative and conclusions are not supported with robust analysis.",
+      "The proposal is interesting but should be corroborated more.",
+      "Conclusions are made based on a few examples and miss robust statistical tests on larger databases.",
+      "The author argues for ‘specific binding’ of ions. It is obvious from various other works that ions bind at particular locations, but specificity has not been demonstrated clearly in this paper."
+    ]
+  },
+  {
+    "uid": "anoy115",
+    "score": 2.0,
+    "reasons": [
+      "The paper by Caminsky et al. is a welcome and timely review of the complexities of pre-mRNA splicing, the relationship between splicing mutations, detection thereof by IT and/or laboratory, and new challenges posed by next generation sequencing.",
+      "The review of the various splice 'sensing' software, and the technology underlying these was in depth.",
+      "The relationship between IT predicting splice mutations and laboratory studies to confirm the actual results of aberrant splicing was very well done, and the discussion of NMD and other causes of technical issues relating to demonstrating mutant mRNA resulting from splicing mutations was delightful.",
+      "The discussion about laboratory standards (also related to ACMG recommendations) regarding splicing was excellent.",
+      "Lastly, the discussion of the impact of splicing mutations and IT in the era of large datasets, including NGS was concise and accurate.",
+      "In summary, this review ought to be mandatory reading for all genetics professionals in molecular laboratories, incl. those involved in whole exome/genome sequencing."
+    ]
+  },
+  {
+    "uid": "anoy14",
+    "score": -1.0,
+    "reasons": [
+      "The authors note that their study is unique in that is focused on an adult population.",
+      "This is not strictly true, but the authors still could have included content or summaries now what the research on medical marijuana on children with cerebral palsy suggests"
+    ]
+  },
+  {
+    "uid": "anoy55",
+    "score": 1.0,
+    "reasons": [
+      "This is an excellent current review of the topic of hospital-acquired pneumonia and ventilator-associated pneumonia in the setting of increasing resistance among the responsible Gram-negative organisms."
+    ]
+  },
+  {
+    "uid": "anoy100",
+    "score": -1.0,
+    "reasons": [
+      "The article entitled \"Bakuchiol and its pharmacological benefits\" by Nizam et al., is a routine exercise wherein a systematic review approach summarized, analyzed, interpreted and concluded about the therapeutical values of the compound \"bachuchiol\" from the leaves and seeds of Psoralea corylifolia medicinal plants.",
+      "In that case, there should be some restructuring of the text with inclusion of some promising upcoming areas of futuristic research in this direction.",
+      "While the potential of the same is pharmacologically great, the following are some of my observations on the article which needs immediate attention by the authors and rigorous revision before indexing"
+    ]
+  },
+  {
+    "uid": "anoy10",
+    "score": 1.0,
+    "reasons": [
+      "Overall the depth of the work is sufficient for the calibre of this journal."
+    ]
+  },
+  {
+    "uid": "anoy42",
+    "score": 1.0,
+    "reasons": [
+      "The authors have carried out an incredibly detailed systematic review and this article meets all the criteria f1000 set for acceptable publications and has hopefully paved the way for their goal of a South Asian Core Outcome Set to be developed.",
+      "The article is well written with very impressive tables of results and as a precursor to the eventual COS is exemplary for the methodology to be used in this process.",
+      "They identify the need to homogenise outcome reports so as to easily compare cases and act fast following the admission of a previously documented outcome.",
+      "This would enable future clinical trials to be designed more methodically.",
+      "Overall Bhaumik et al. have done a great job at reviewing the vast and varied snakebite literature and I look forward to reading the eventual COS.",
+      "At no point in their review do they mention any of the snake species involved or any means for diagnosing the bites and ensuring they are indeed snake bites."
+    ]
+  },
+  {
+    "uid": "anoy31",
+    "score": -1.0,
+    "reasons": [
+      "The discussion section seems the repetition of the results section.",
+      "In order to overcome this problem, it would be better to synthesize and discuss the “Efficiency Enhancements of Big Data Analytics in Healthcare Supply Chains” and “Enablers and Challenges in Implementing Big Data Analytics in Healthcare Supply Chains” sections under one title.",
+      "I did not understand to relating and discussing the country and research method (Table 1, Figure 5).",
+      "Could you explain the importance of relating these two different findings?",
+      "However, it sounds more the findings or may be conclusion section.",
+      "The aim of the study is confusing in the abstract section.",
+      "This section mainly talks about the big data. But it does not discuss big data in Healthcare Supply Chain Management."
+    ]
+  },
+  {
+    "uid": "anoy85",
+    "score": 2.0,
+    "reasons": [
+      "What distinguishes this review is its sustained engagement with the cultural and theoretical implications of these technologies, incorporating frameworks such as constructivist learning, digital humanism, and participatory culture to contextualize the smart museum not merely as a technologically enhanced space, but as a socio-culturally responsive institution.",
+      "This layered approach reflects the depth of current literature and renders the work particularly valuable for scholars and practitioners seeking to understand the broader institutional transformations underway.",
+      "The conclusions drawn are appropriately cautious and forward-looking, acknowledging both the promise and the potential pitfalls of digitizing cultural heritage.",
+      "The authors do not position smart technologies as solutions in themselves but argue for their strategic, ethically-informed integration into museum missions and audience engagement strategies.",
+      "In doing so, they emphasize the importance of maintaining authenticity, fostering participatory ecosystems, and resisting techno-determinism.",
+      "Their recommendation to use the proposed fifteen-feature profile as a framework for future empirical studies and institutional benchmarking is both practical and scholarly.",
+      "The inclusion of visual aids such as the Smart Museum Diagram (Figure 1, p. 6) and implementation tables (Tables 1–3, pp. 7–10) enhances the clarity and accessibility of the conceptual model while reinforcing the scholarly rigor of the review."
+    ]
+  },
+  {
+    "uid": "anoy101",
+    "score": -1.0,
+    "reasons": [
+      "This research was conducted in a logical manner and is informative, but there are still some problems.",
+      "Section “Resistance to KRAS inhibition” is somewhat confusing.",
+      "The authors should elaborate on the molecular mechanisms that lead to resistance to KRAS inhibitors."
+    ]
+  },
+  {
+    "uid": "anoy37",
+    "score": -2.0,
+    "reasons": [
+      "All in all, this is a weak paper.",
+      "Its arguments are poor, it cherry picks examples, the data analysis is rudimentary and needs to include many other possible explanatory factors in addition to those related to UV.",
+      "Further, many other factors will affect these counts and it is wrong to only look at climate factors.",
+      "This, and other examples, seem to be cherry picking examples to support their hypothesis.",
+      "In my view it has a number of weaknesses.",
+      "The reference to deploying artificial UV-C is strange and seems wrong in a paper about seasonality.",
+      "The cited paper found no evidence of coronavirus [or other viruses] in any season in the seabirds; the lack of detection of coronaviruses is not evidence at all of an impact of season.",
+      "The suggestion that the southern hemisphere seems to have escaped the worst (supportive of seasonality etc) has been overtaken by events (e.g., Brasil) and the authors may wish to update the statement."
+    ]
+  }
+]

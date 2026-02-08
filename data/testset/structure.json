@@ -1,0 +1,1102 @@
+[
+  {
+    "uid": "anoy132",
+    "score": -1.0,
+    "reasons": [
+      "Lines 141-157 could be rephrased and may be broken into two paragraphs where one looks at the “study type, the period of interest and justification, and criteria for inclusion of studies,” and the other, the variables of interest “anthropometric indicators, micronutrient status, presence of comorbidities, etc and the justification.”",
+      "In the context of this study which is to investigate the burden of malnutrition among children in institutionalized care, lines 170-189 seem to explain the “how” the sample of interest, geographic distribution, types of studies, were ascertained.",
+      "The authors may consider shifting this section to them methods section after improving its flow.",
+      "Generally, the authors could consider restructuring the discussion section to discuss: malnutrition and IBC in general, then IBC malnutrition and age, IBC malnutrition and Gender, IBC malnutrition and disability, IBC malnutrition and HIV, IBC malnutrition and co-infections and infestations, etc.",
+      "The construction of the paragraph that covers lines 299-306 could be revised as lines 299-300 seem not to flow well with subsequent lines.",
+      "The authors could consider starting with the most important findings concerning malnutrition visa vie the extent of the presence of reviewed data, then would comment later on the scarcity of data.",
+      "It has a great organization that allowed us to highlight the main areas such as: physical growth, disabilities, special health issues and nutrition."
+    ]
+  },
+  {
+    "uid": "anoy159",
+    "score": -1.0,
+    "reasons": [
+      "At times, it feels as though the paper is written for researchers studying scientific rigor in ML: for example, there are many statements in Section 3 along the lines of \"this type of rigor is understudied\" (the implication being, I suppose, that more people in the area of scientific rigor should study it).",
+      "At other times, it feels as if the paper is written for a general ML audience: for example, the discussion in Section 5 seems more like a motivation for regular ML researchers to do work that is more rigorous.",
+      "At the same time, Section 5 also seems like it's aimed at industry practitioners in its attempt to clarify what areas of rigor such practitioners should pay attention to.",
+      "Because the intended audience is muddied, it's also unclear what the takeaway from the paper is.",
+      "The taxonomy is nice, but as I wrote above, it's not clear who should be using it and how."
+    ]
+  },
+  {
+    "uid": "anoy67",
+    "score": -1.0,
+    "reasons": [
+      "Additionally, the organization of the article can be improved to enhance its flow and coherence.",
+      "The transitions between sections need to be smoother, ensuring that readers can follow the logical progression of ideas.",
+      "To address the aforementioned concerns, the authors are encouraged to revise the manuscript with a clear focus on refining the background, enhancing the organization, and ensuring the effective integration of references."
+    ]
+  },
+  {
+    "uid": "anoy116",
+    "score": -1.0,
+    "reasons": [
+      "Para 1: There is a strong emphasis on Asian diets transiting to \"western\" diet.",
+      "However, the article focus on worldwide.",
+      "Please move it to discussion.",
+      "Para 11 and para 12: Suggest to reorganise.",
+      "Methods: PRISMA is reportedly followed, please include the PRISMA table as supplementary table.",
+      "Para 4: More details is needed on the systematic review conducted in China, how does this relate to the current paper?",
+      "More concrete examples are required.",
+      "Conclusion: \"This dietary pattern is correlated with an elevated risk of hypertension and obesity.\" This is not part of the study's results and therefore, cannot be concluded as such."
+    ]
+  },
+  {
+    "uid": "anoy28",
+    "score": 1.0,
+    "reasons": [
+      "The article aims to raise reader awareness and present new questions to be answered, and so the title, abstract, and content are appropriate."
+    ]
+  },
+  {
+    "uid": "anoy8",
+    "score": -1.0,
+    "reasons": [
+      "However, in several sections of the text, the researchers focused on modifications and preventive measures during times of crisis, such as lockdown.",
+      "Either modify the manuscript's name or make your interpretations totally relevant to COVID-19, or at least to the lockdown during highly transmissive and fatal respiratory diseases.",
+      "In the introduction, the purpose of the review was presented as understanding of lifestyle factors and how they may have altered during COVID-19.",
+      "However, the discussion and conclusion focused on ways to improve healthy lifestyle and preventive measures to protect that habit.",
+      "I recommend that researchers focus on the purpose of the review and let the community decide the actions."
+    ]
+  },
+  {
+    "uid": "anoy39",
+    "score": -1.0,
+    "reasons": [
+      "Eligibility criteria: It should be made clear that all or part of the eligibility criteria will need to be fulfilled.",
+      "Synthesis of result: It is not unusual to get heterogeneous result due to regional variability and low impact article.",
+      "So how the authors analyse this heterogeneity should be mentioned.",
+      "Study design (page 4): It would not be wise to have a study having no restriction of ‘year of publication’ to see the burden and risk factors which may change over time.",
+      "Dataset search strategy: It can also include venomous and antivenom as we consider economic burden .",
+      "Risk factors: a list may be developed.",
+      "Searching other sources: how the authors will identify ‘researchers of repute’."
+    ]
+  },
+  {
+    "uid": "anoy51",
+    "score": -2.0,
+    "reasons": [
+      "None of the above is reflected in the study questions and objectives, so these need to be thoroughly overhauled to reflect the pre-emptive resistance management functions of DAI nets, as explained in detail above.",
+      "The study design should more explicitly spell out that this review will only look at studies in which the units of observation and experimental treatment allocation are population clusters large enough to experience the full community-level benefits of bednets through vector population suppression."
+    ]
+  },
+  {
+    "uid": "anoy1",
+    "score": -1.0,
+    "reasons": [
+      "The objectives of the literature review could have been be defined more clearly.",
+      "The eligibility criteria for including studies in the systematic review are not clearly stated.",
+      "The criteria for eligibility are not clearly described in the paper, nor in the supplemental materials (e.g., the online appendix).",
+      "Most of the 12 studies selected for the review are not suited to estimate the prevalence of problem gambling, nor the “prevalence” of trading behavior, as they do not have representative sample of the population.",
+      "To me it seems that this systematic literature review’s aim is narrower: to summarize evidence on the relation between standard problem gambling scales measured in surveys (SOGS, CPGI, PGSI, or DSM-5) and the respondents’ financial trading behavior."
+    ]
+  },
+  {
+    "uid": "anoy143",
+    "score": 1.0,
+    "reasons": [
+      "The discussion is well structured and well presented.",
+      "In abstract the authors should provide the major contributions preferably in quantitative terms.",
+      "Similarly, the motivation and justification along with major contributions needs to be clearly presented in the introduction section."
+    ]
+  },
+  {
+    "uid": "anoy36",
+    "score": -1.0,
+    "reasons": [
+      "Having reviewed this manuscript, my main comments are related to the structure of the Methods, Results and Discussion.",
+      "The Results need to be thematically analyzed by theme, rather than by geographical area and there are many things in the Methods that need to be in the Results.",
+      "Table 1 in this PRISMA manuscript provides a clear guide that will help you strengthen your manuscript."
+    ]
+  },
+  {
+    "uid": "anoy50",
+    "score": 1.0,
+    "reasons": [
+      "The paper is really well written and organized in sections that focus on different aspects of function prediction and its pitfalls."
+    ]
+  },
+  {
+    "uid": "anoy6",
+    "score": -1.0,
+    "reasons": [
+      "The victimisation of trafficked victims are all jumbled up to sound like they are being physically tortured when most harms are caused through psychological and emotional means.",
+      "There needs to be more discussion and understanding on what amounts to methodology and methods with regards to conducting document analysis, data analysis, content analysis, thematic analysis and secondary analysis in trafficking."
+    ]
+  },
+  {
+    "uid": "anoy102",
+    "score": -1.0,
+    "reasons": [
+      "I suggest you add all the conclusion together, not concluding in some of the sub-heading.",
+      "Pull all the conclusion together to be in the conclusion part."
+    ]
+  },
+  {
+    "uid": "anoy104",
+    "score": 1.0,
+    "reasons": [
+      "The paper exhibits a well-organised structure, with coherent headings and subheadings that contribute to the overall clarity of the manuscript."
+    ]
+  },
+  {
+    "uid": "anoy138",
+    "score": 1.0,
+    "reasons": [
+      "The overall study design is sound.",
+      "The review is organized logically into coherent paragraphs/subsections.",
+      "Important 1.4 Content in line 717 - 753 is a duplication of the content in line 682 - 716.",
+      "3.2 Consider moving the discussions currently located in the \"Conclusion and Future Work\" section to a dedicated section called \"Discussions and Future Work\".",
+      "Also, consider removing \"RQ\" from the rest of the manuscript to avoid the impression that the manuscript is taken straight from a postgraduate thesis.",
+      "On page 3, a little more discussion is needed to justify the selection of the 8 research questions."
+    ]
+  },
+  {
+    "uid": "anoy150",
+    "score": 1.0,
+    "reasons": [
+      "The organization of the paper by different persona type is sensible.",
+      "p6 (figure 2) and full paper: Character and individualized persona are organized by data source, construction and evaluation.",
+      "Why do demographic persona follow a different structure?"
+    ]
+  },
+  {
+    "uid": "anoy90",
+    "score": -1.0,
+    "reasons": [
+      "1. A brief introduction about the common micronutrients and related adverse pregnancy outcome should be given at the first beginning, which would be easily to retrieve the readers’ attention.",
+      "4. It seems that the conclusion focuses more on the specific factors related mechanism, the public health significance of appropriate micronutrient supplementation during pregnancy should be added in conclusion.",
+      "5. The abstract and conclusion needs to be re-organized and revised.",
+      "The review is clearly structured and easily understood.",
+      "the public health significance of appropriate micronutrient supplementation during pregnancy should be added in conclusion."
+    ]
+  },
+  {
+    "uid": "anoy68",
+    "score": -1.0,
+    "reasons": [
+      "1. The introduction section can be expanded further.",
+      "3. Future work section can be more detailed."
+    ]
+  },
+  {
+    "uid": "anoy142",
+    "score": 1.0,
+    "reasons": [
+      "The paper is quite well-structured but some minor revisions should be enacted.",
+      "The introduction is quite dispersive..."
+    ]
+  },
+  {
+    "uid": "anoy40",
+    "score": -2.0,
+    "reasons": [
+      "It is kindly suggested to consider a redesign of the structure of the document.",
+      "The flow of the information should be improved.",
+      "Since the HindIII polymorphism is the main issue under review, a large proportion of the review could be summarized and the HindIII polymorphism data extended.",
+      "It is not clear the reason to devote several paragrapjs for FH genes when they are not related with the main topic of this review."
+    ]
+  },
+  {
+    "uid": "anoy113",
+    "score": 1.0,
+    "reasons": [
+      "This is an excellent overview on the current therapy of breast cancer, divided according to different specific stages and patients and tumor characteristics.",
+      "It is well written and each section appropriately referenced."
+    ]
+  },
+  {
+    "uid": "anoy22",
+    "score": -1.0,
+    "reasons": [
+      "I think it is important to mention in the protocol how this information will be presented.",
+      "Will the authors use tables to present everything?",
+      "Visualizations?",
+      "A database?",
+      "Summary statistics?",
+      "Something else?"
+    ]
+  },
+  {
+    "uid": "anoy43",
+    "score": -1.0,
+    "reasons": [
+      "Here, on the other hand, the scope appears to be so broad.",
+      "In summary, this might be an interesting protocol, but the authors should more clearly formulate the specific questions they are trying to address, and better motivate the need for studying them in light of thousands of studies looking at various modelling approaches for COVID-19, not to mention huge amounts of available data."
+    ]
+  },
+  {
+    "uid": "anoy162",
+    "score": -2.0,
+    "reasons": [
+      "- some sections appear disjointed from the topic of the paper: several topics are mentioned and described to various extent, but it remains unclear whether they found practical application in real-world scenarios.",
+      "the content of some section is inconsistent: for example, Section 2.3 \"Modern deep learning architectures\" begins by listing common neural network building blocks, but it ends discussing regularization strategies.",
+      "Section 2.2 \"Properties\" only discusses expressiveness and generalization.",
+      "This section also mentions \"double-descent\" as a crucial phenomenon to be considered in relation to generalization, but no connection is made with TinyML applications and the topic is not mentioned again in the rest of the paper.",
+      "Section 6 is titled \"Limitation of TinyML\" but the content is about model accuracy vs. model size."
+    ]
+  },
+  {
+    "uid": "anoy155",
+    "score": -1.0,
+    "reasons": [
+      "5. Section 3 has multiple comments about the performance of the methods.",
+      "5. Since this section appears before the evaluation criteria is described, it is important to mention, at least after the first comment on performance, that the next section will describe the evaluation criteria.",
+      "6. This is also the best place to refer the reader to section 4 for a description of the evaluation criteria as per comment 5 above.",
+      "The description for Attention Rollout says \"Although it outperforms the raw attention explanations, it has several limitations.\" The name of the evaluation criteria and at least one of the limitations should be mentioned."
+    ]
+  },
+  {
+    "uid": "anoy105",
+    "score": -1.0,
+    "reasons": [
+      "Finally, I recommend re-writing the conclusion without citations"
+    ]
+  },
+  {
+    "uid": "anoy84",
+    "score": -1.0,
+    "reasons": [
+      "1- First paragraph should be shifted to the introduction and avoid repetition.",
+      "2- The paragraph on BPH should be omitted as stated in the major comment before.",
+      "For above reasons I think the current title is not proper and should be changed as suggested above."
+    ]
+  },
+  {
+    "uid": "anoy88",
+    "score": 2.0,
+    "reasons": [
+      "The content is well-organized and comprehensive.",
+      "The tables and figure are adequate and informative."
+    ]
+  },
+  {
+    "uid": "anoy91",
+    "score": -1.0,
+    "reasons": [
+      "The conclusion section is too long.",
+      "Provide significant conclusions.",
+      "The remaining points can be provided in a “Discussion” section."
+    ]
+  },
+  {
+    "uid": "anoy25",
+    "score": 1.0,
+    "reasons": [
+      "The study objectives are clearly described, the study design is appropriate and sufficiently detailed.",
+      "If the latter, the argument put forth appears somewhat weak (as could be true of all factors) and is also perhaps better placed in the paragraph below alongside the justification for excluding ‘resource implications’."
+    ]
+  },
+  {
+    "uid": "anoy131",
+    "score": -1.0,
+    "reasons": [
+      "The second paragraph of the introduction has become unnecessarily lengthy by listing all lineages.",
+      "By starting these paragraphs with \"To summarize,...\" the text would be better structured and easier to follow for the reader.",
+      "Also Q1 would benefit from such a paragraph."
+    ]
+  },
+  {
+    "uid": "anoy17",
+    "score": 1.0,
+    "reasons": [
+      "The rationale is clear and the proposed approach is well structured."
+    ]
+  },
+  {
+    "uid": "anoy133",
+    "score": -1.0,
+    "reasons": [
+      "The manuscript lacks a summary or conclusion part.",
+      "In some places of the paper, the same content has been reviewed twice, which is not necessary.",
+      "The authors should combine the two paragraphs and review the history of different RNA-FISH methods based on the development of different types of probes.",
+      "In line 81, the subtitle “the development of RNA-FISH and smFISH” is not correct, as smFISH is a specific type of RNA-FISH."
+    ]
+  },
+  {
+    "uid": "anoy145",
+    "score": -1.0,
+    "reasons": [
+      "- The sections are titled as questions.",
+      "While this is innovative and gets the point across, I prefer a more conventional approach to naming sections",
+      "The authors superficially discuss the ideas of various works and do so in a rather heterogeneous manner with separate paragraphs dedicated to separate papers.",
+      "I would look forward to a more homogeneous discussion of ideas with disparate work smoothly falling into the discussion.",
+      "A few figures, block diagrams etc. would help the reader more effectively grasp the ideas being discussed."
+    ]
+  },
+  {
+    "uid": "anoy148",
+    "score": -1.0,
+    "reasons": [
+      "Some of the results sections like \"Disentangling Syntax and Semantics\" may benefit from a bit more shortening, potentially moving some parts to a supplementary."
+    ]
+  },
+  {
+    "uid": "anoy103",
+    "score": 1.0,
+    "reasons": [
+      "The introduction effectively sets the context by discussing the significance of precooked flours in both developed and developing nations.",
+      "It could be beneficial to briefly mention the specific challenges or needs that these flours address in developing countries, providing a clearer link to why their growth is particularly notable in these regions.",
+      "The conclusion does a good job summarizing the impact of extrusion conditions on the nutritional components of flours.",
+      "Avoid redundancy and aim for conciseness without losing meaning."
+    ]
+  },
+  {
+    "uid": "anoy121",
+    "score": -1.0,
+    "reasons": [
+      "Line 190 In the topic “The Archival and the Diversity of AMPs” the authors focused only on naturally occurring AMPs.",
+      "It should be in the topic title.",
+      "Therefore, at some points, the manuscript lacks focus considering the authors’ goals.",
+      "It would be better if the authors opened a subsection for mixed structures (e.g, defensins).",
+      "In general, the “AMP structure” section should be highly improved.",
+      "It would be better if the authors opened a subsection for mixed structures (e.g, defensins).",
+      "What about cyclic peptides?",
+      "Different structural scaffolds?",
+      "And, once again, considering the last sentence of the introduction, I believe the authors should provide the readers with more examples for optimized AMPs, not only naturally occurring ones.",
+      "Therefore, at some points, the manuscript lacks focus considering the authors’ goals."
+    ]
+  },
+  {
+    "uid": "anoy156",
+    "score": -1.0,
+    "reasons": [
+      "Sometimes a lack of structure.",
+      "Giving bold titles to paragraphs could help gathering the main idea of each.",
+      "Section 4.4.1 is an example of section that would greatly benefit from a more highlighted structure.",
+      "I have difficulties to understand the core differences between the two first paragraphs given as perspectives in 5.",
+      "The last perspective paragraph (RL for transformers) should be removed"
+    ]
+  },
+  {
+    "uid": "anoy57",
+    "score": -1.0,
+    "reasons": [
+      "Despite mentioning the possible negative feedback from molecular complexity, I couldn't find any examination of it in the main text."
+    ]
+  },
+  {
+    "uid": "anoy106",
+    "score": -1.0,
+    "reasons": [
+      "Whilst the manuscript is generally well written and presented, I do think that it could be significantly improved by revising structure and increasing 3Rs emphasis.",
+      "Need for animals models: the flow of this section could be improved.",
+      "I do not think that the final paragraph really fits as currently written.",
+      "Dissemination and uptake: this section is quite weak at present and could be improved by including discussion of e.g. current barriers to uptake and potential approaches to encourage wider implementation.",
+      "The title of the article does not accurately reflect its content.",
+      "It is too general and should be specifically focused on thromboembolism with regard to development of an improved experimental model.",
+      "The stated scientific benefits in the research highlights box could also be made more specifically and understandable on a stand-alone basis.",
+      "Abstract – specify light transmission aggregometry techniques."
+    ]
+  },
+  {
+    "uid": "anoy108",
+    "score": 1.0,
+    "reasons": [
+      "The suggestions cover seven topics, from management to in-depth software development tips, and do a very good job at explaining their importance and their take on what constitutes a good approach.",
+      "One suggestion would be to integrate some of these tools in Figure 1, to give readers a visual cue where these tools fit in each topic/step.",
+      "The authors also provide a very nice summarized view of the release process, namely licensing and distribution (e.g. using Docker), and the follow-up maintainance."
+    ]
+  },
+  {
+    "uid": "anoy33",
+    "score": -1.0,
+    "reasons": [
+      "That could not be a conclusion from the study, given that the aim of the work was not to study factors and conditions that facilitates the implementation of CPG neither the conditions to change professional behavior.",
+      "No data on these issues are reported, then no conclusion could be provided.",
+      "A coherent conclusion could be the need to improve and systematize this kind of implementation studies.",
+      "The same considerations exposed in the abstract regarding the sentences \"There are probably still undiscovered variables that interfere with the use of the CPGs\".",
+      "That could not be a conclusion from the study, given that was not the aim of the work to study factors and conditions that facilitates the implementation of CPG neither the conditions to change professional behavior.",
+      "No data on these issues are reported, them no conclusion could be provided.",
+      "A coherent conclusion could be the needs to improve and systematize these kinds of implementation studies."
+    ]
+  },
+  {
+    "uid": "anoy73",
+    "score": -1.0,
+    "reasons": [
+      "Data tables summarizing findings are not present for several sections.",
+      "The one table that includes statistical values for biomarkers does not include any direct comparisons between smokers and non-smokers.",
+      "There is a lack of coherence and integration of findings in chronological order for specific sample types described under each section.",
+      "This should be carefully addressed during the revision.",
+      "Format the table with missing information (sample size for all the citations should be included).",
+      "Additionally, the comments section should be labelled as ‘Key Findings’ and the reference citation can be moved to the last column.",
+      "The title of table 1 should include COPD.",
+      "This table should not mention general biomarkers and include only COPD-related studies.",
+      "Any insight on imaging findings from modified risk tobacco products will be important to include and discuss based on current literature.",
+      "Including schematic figures based on identified COPD biomarkers from different sample types based on current literature summarized in this review would be informative to readers who are new to this field."
+    ]
+  },
+  {
+    "uid": "anoy34",
+    "score": -1.0,
+    "reasons": [
+      "However, a more structured comparison with contemporary temple architecture across different regions of India could provide additional context.",
+      "It would be helpful to include a comparison with other ancient iron structures, such as the Iron Pillar of Delhi, to establish technological linkages."
+    ]
+  },
+  {
+    "uid": "anoy72",
+    "score": -1.0,
+    "reasons": [
+      "Adding a schematic summarizing the de-mineralization and re-mineralization of dental enamel would improve the overall impact of the article.",
+      "A table summarizing the various recent techniques in re-mineralization along with each of their advantages and limitations would be vital for the article.",
+      "The article seems to end abruptly.",
+      "Kindly add a couple of sentences on prospects of further research as the concluding sentence.",
+      "Was this a systematic review? If not mention that it is a narrative review based on published literature."
+    ]
+  },
+  {
+    "uid": "anoy5",
+    "score": -1.0,
+    "reasons": [
+      "The search strategies listed in box 1 do not match the study objectives and could be made more specific.",
+      "‘’Citation chasing’’ is mentioned twice, once briefly at the beginning of the section and more detail at the end, one of them could be deleted."
+    ]
+  },
+  {
+    "uid": "anoy15",
+    "score": -1.0,
+    "reasons": [
+      "The authors have not concluded the review article and it would be appreciated if they could summarize their observations from the literature review and provide an appropriate conclusion giving the readers an insight into the necessity of pre-injection aspiration."
+    ]
+  },
+  {
+    "uid": "anoy70",
+    "score": -1.0,
+    "reasons": [
+      "It would be good to state the exclusion criteria under the “Search Methodology” section as well.",
+      "The rationale for choosing a scoping review over a systematic review can be briefly explained."
+    ]
+  },
+  {
+    "uid": "anoy71",
+    "score": -1.0,
+    "reasons": [
+      "Finally, I would suggest to extend more the Conclusions, specially to better discuss the current and future implications of the COVID-19 on pregnancy."
+    ]
+  },
+  {
+    "uid": "anoy95",
+    "score": -1.0,
+    "reasons": [
+      "Abstract need to be rewrite and should well organized.",
+      "Authors, need to discuss and analyze the reported data for various physico-chemiccal, mechanical and biological outcomes of various developed and evaluated implants through in-vitro and in-vivo studies.",
+      "Authors, need to highlight various reported pectin and chitosan based drug delivery system such as nanoparticles, hydrogels etc. Also, need to discuss advantages and challenges."
+    ]
+  },
+  {
+    "uid": "anoy20",
+    "score": 1.0,
+    "reasons": [
+      "It is very well written with good flow for easy understandability of health care workers and administrators at all levels.",
+      "There is some repetition in 1st para of ‘results”"
+    ]
+  },
+  {
+    "uid": "anoy120",
+    "score": -1.0,
+    "reasons": [
+      "I believe that this information should be added in a new paragraph",
+      "Perhaps it is better to write that information at the end of the paragraph, or at the beginning, and not in italics?"
+    ]
+  },
+  {
+    "uid": "anoy66",
+    "score": -1.0,
+    "reasons": [
+      "It seems that the text is written more as an essay than a paper.",
+      "Adjustments need to be made in order to have a more coherent, synthetic and robust text that is more in line with the format of a paper.",
+      "Based on the reviewers' comments, some important changes have been made, but the overall impression is that the article lacks coherent and consistent linkage and documentation between theory, research questions and discussion of results.",
+      "It does not provide sufficiently the problematic and the state of the art of the research purpose until the end of the section.",
+      "I think it is necessary the writers to state how the three research questions are interconnected and related theoretically.",
+      "In the section of \"Literature review\" the change management aspects and theories are not connected and/or commented upon with the ideology of neoliberalism and the restructurings of the NPM in higher education institutions.",
+      "In both sections introduction and literature review, as well as in discussion section, the bibliographical references that substantiate the arguments are presented in successive serialized references and not synthetically, while they are often repeated in the text without a clear and organic integration and connection with the main research questions.",
+      "In the \"Methods\" section it would be useful for the authors to mention the tools they used, such as Prisma and bias assessment in the design subsection where they mention the method selection.",
+      "Nevertheless, the findings are not directly related to the first and third research questions.",
+      "The discussion section is well developed and documented.",
+      "In the section of \"Conclusions\" a general summary is given, but the authors' position and critical stance on the subject is missing."
+    ]
+  },
+  {
+    "uid": "anoy29",
+    "score": -1.0,
+    "reasons": [
+      "It would be useful to have a section called Data extraction, to describe all the data that were extracted.",
+      "For example, in the beginning of the Results, the authors have mentioned type of interventions, and number of studies included in analysed reviews, but this was not mentioned as extracted in the Methods.",
+      "Results section is rather short.",
+      "However, I understand that this is brief report, so I would not insist on this, if this is not feasible for this type of article.",
+      "I also do not see anything mentioned about that in the Methods, and Results.",
+      "What kind of “structured approach” is this?"
+    ]
+  },
+  {
+    "uid": "anoy137",
+    "score": -1.0,
+    "reasons": [
+      "WHO Health-Promoting Schools Framework and WHO health-promoting components were mentioned in the article.",
+      "If they present the same concept, I suggest authors to maintain consistency throughout the article.",
+      "Table 1. Please list studies reviewed in chronological order; use the correct format for Table 1 title.",
+      "In the methods section, some information needs further clarifications.",
+      "Also, what is the rationale of at least four of eight components should be met? Please explain.",
+      "Results: Please make sure that the description and numbers of articles described in the Study Selection section aligns with Figure 1."
+    ]
+  },
+  {
+    "uid": "anoy74",
+    "score": 1.0,
+    "reasons": [
+      "The structure of the paper was clearly defined at the beginning of the text (page 3)."
+    ]
+  },
+  {
+    "uid": "anoy75",
+    "score": 1.0,
+    "reasons": [
+      "The scheme followed describing the antioxidant properties of these compounds, treatment and prevention of organ damage, sepsis treatment and apoptosis, its limitations and conclusion is comprehensive and well-structured with up-to-date references containing the most essential data."
+    ]
+  },
+  {
+    "uid": "anoy48",
+    "score": -1.0,
+    "reasons": [
+      "A certain view is implied by the organization of the paper and the references chosen, but they could be more explicit.",
+      "What is the scope of their essay?",
+      "I think this oversimplification inhibited some deeper analysis in other areas as well.",
+      "Finally, what is the takeaway message from this essay?",
+      "It ends rather abruptly with no summary, no suggested directions or immediate challenges to overcome, no call to action, no indications of things we should stop trying, and only brief mention of alternative perspectives."
+    ]
+  },
+  {
+    "uid": "anoy78",
+    "score": -1.0,
+    "reasons": [
+      "The benefits of bio desulfurization over other technologies should be provided in separated section",
+      "Add suggested mechanism as a figure based on the previous works",
+      "The conclusion must be improved.",
+      "Mention more highlights about the technology"
+    ]
+  },
+  {
+    "uid": "anoy26",
+    "score": -1.0,
+    "reasons": [
+      "The introduction lacks focus.",
+      "The definition provided in paragraph 3 is misplaced.",
+      "Authors may define the concept before the last statement of the first paragraph.",
+      "The introduction should show the relevance of the review by uncovering the reasons that led to undertaking the narrative review.",
+      "Along with this, why authors have opted for narrative reviews over the other types of reviews could have been justified.",
+      "The first statement is repetition.",
+      "It appears in the conclusion section out of nowhere."
+    ]
+  },
+  {
+    "uid": "anoy122",
+    "score": -1.0,
+    "reasons": [
+      "From Line 93 to 98… I would like to propose the authors to insert the chemical formula of lidocaine and articaine as a figure to ensure a proper comprehension for the readers."
+    ]
+  },
+  {
+    "uid": "anoy63",
+    "score": -1.0,
+    "reasons": [
+      "The methods involve only variability, yet the conclusions are about precision medicine.",
+      "It is not entirely clear what the one has to do with the other."
+    ]
+  },
+  {
+    "uid": "anoy69",
+    "score": -1.0,
+    "reasons": [
+      "Future prospective at end would certainly increase the quality of the manuscript.",
+      "Authors mentioned the usefulness of probiotics in management of tissue inflammation, some more clear idea on mechanism to mitigate the inflammation, particularly the viral load is demanded.",
+      "Chemistry of butyrate and dexamethasone and its structure activity relationship in preventing the cytokine storm is necessary."
+    ]
+  },
+  {
+    "uid": "anoy119",
+    "score": -1.0,
+    "reasons": [
+      "l 217: I think there could be a a better transition sentence at this point.",
+      "ll 173-174: I would revise the text so that it reads \"...and each has its benefits and drawbacks\" and \"which we have outlined\"."
+    ]
+  },
+  {
+    "uid": "anoy82",
+    "score": -1.0,
+    "reasons": [
+      "Need to be concise with limited paragraphs with a logical sequence of the statements.",
+      "Each neurodegenerative section end needs to conclude the T3 action on respective neurodegenerative disorders.",
+      "Table 2 references can be placed as the last column.",
+      "The consequences and challenges of T3 action for neurodegenerative disorders and the importance of Drug delivery systems application for T3 therapy need to be explained before the bioavailability section.",
+      "Should be reducing the appearance of too many small paragraphs.",
+      "The consequences and challenges of T3 action for neurodegenerative disorders and the importance of Drug delivery systems application for T3 therapy need to be explained before the bioavailability section.",
+      "3’ is incomplete hanging. The various route-based PK profiles of T3 must be discussed.",
+      "T3 action on VaD is covered limited; needs to expand similarly to other disorders.",
+      "Future directions and conclusion author emphasized the nano-delivery of intranasal administration T3. These sections must cover all other nano-delivery concepts or the title must be changed based on the intranasal nano-delivery systems"
+    ]
+  },
+  {
+    "uid": "anoy53",
+    "score": -1.0,
+    "reasons": [
+      "I don’t know the reason for writing reports section as a discussion.",
+      "They may consider combining the results with the discussion or report them separately by removing the references from the results section.",
+      "It will be easier to do this by moving the discussion section with the first paragraph to come before “Interaction between households/wards and CHWs and effect on utilization of CHS”",
+      "They should also explain how they reported results from quantitative, qualitative and mixed methods studies.",
+      "The authors should go over the numbers to ensure that their + &- are correct.",
+      "The authors should also consider adding a section for the strengths and limitations for the study.",
+      "They should also consider using the information in paragraph 2 as limitations for the study.",
+      "They should also consider adding a section for policy implications and future research.",
+      "I suggest, the authors phrase the last sentence to read, Data extracted based on the relevance to the research study and assessed for quality and eligibility criteria."
+    ]
+  },
+  {
+    "uid": "anoy59",
+    "score": 1.0,
+    "reasons": [
+      "The synthesis of results across different learning approaches is well-organised but shows mixed results regarding statistical significance.",
+      "Lastly, the narrative synthesis approach is appropriate given the variability in study designs and outcome measurements."
+    ]
+  },
+  {
+    "uid": "anoy134",
+    "score": 1.0,
+    "reasons": [
+      "The article structure and tables/figures are appropriate, and the raw data is shared."
+    ]
+  },
+  {
+    "uid": "anoy79",
+    "score": -1.0,
+    "reasons": [
+      "There is no information in the Introduction about idiopathic failure.",
+      "Information on ROS is contained in two sections: “Evidence of genetic mutations in the MENA region” and “Evidence of mitochondria mutation in the MENA region”.",
+      "I suggest that they be written exhaustively only in the section: “Evidence of mitochondria mutation in the MENA region”."
+    ]
+  },
+  {
+    "uid": "anoy24",
+    "score": -1.0,
+    "reasons": [
+      "The results and conclusions are repetitive.",
+      "The literature review should be thorough deeply and the scientific aspect of the study should be made clear by presenting the results in a way that supports the conclusion."
+    ]
+  },
+  {
+    "uid": "anoy46",
+    "score": -1.0,
+    "reasons": [
+      "The article is very broad and, in many places highly speculative.",
+      "Since the paper is so broad in its scope this might require a very long paper indeed, perhaps an entire book!",
+      "As an alternative, I would suggest narrowing the scope considerably (e.g. to consider experiments with one species or other experimental category such as Primates, insects, or something still more specific such as Zebrafish or Hymenoptera, or anything for which there is already a lot of evidence gathered in the literature) and focusing on how the arguments presented here might apply, and be supported, in that case.",
+      "A second reason for suggesting a reduction in scope relates to the differences in perceptual and cognitive systems between animals.",
+      "This contributes to my perception that the article is biting off a little more than can be chewed in a single publication.",
+      "Perhaps delete references to robot work, noting it is being done, and focus on screen-based work.",
+      "Or discuss only the relevance of the uncanny valley.",
+      "Lastly, even if the author chooses to remain broad in your discussion of different animals being tested within virtual environments, please consider editing the article, and individual sentences, much more tightly."
+    ]
+  },
+  {
+    "uid": "anoy35",
+    "score": -1.0,
+    "reasons": [
+      "I think adding two subtitles and inclusion and exclusion criteria is better.",
+      "The first three lines of the results are methods, and better to explain them in the method section.",
+      "So, I think if the aim is to find the prevalence of CTS, the authors should include just C/S studies and explain this in the method section.",
+      "Please explain the diagnostic graphs and their application in MA in statistical analysis.",
+      "How is it possible to determine clinical trials, reviews and ... before title and abstract?"
+    ]
+  },
+  {
+    "uid": "anoy140",
+    "score": -1.0,
+    "reasons": [
+      "Paper title and introduction should be reviewed in relation to “decision making” focus.",
+      "This focus is not sustained in the other sections of the work.",
+      "The Introduction lacks a final paragraph describing the structure of the paper.",
+      "Figure 3 is called on page 5, but it is only presented on page 9.",
+      "Thus, the figure and the text are very distant from each other.",
+      "Tables are not ordered.",
+      "It skips from Table 2 to Table 5 and then back to Tables 3 and 4.",
+      "“Limitations” does not look like a Section with only 3 lines.",
+      "The Conclusion lacks a discussion on the opportunity for future work.",
+      "Therefore, does not identify unresolved questions / gaps / future directions."
+    ]
+  },
+  {
+    "uid": "anoy110",
+    "score": -1.0,
+    "reasons": [
+      "I was expecting to find the use of ELISA with specific peptides or recombinant proteins containing or not the epitope (e.g. peptides with/without PTM, or recombinant protein with/without modified or detected aminoacid(s)) discussed in this section, but it only appears later when discussing histones.",
+      "The authors may consider stating the focus of their review on ChIP for transcription factors and histone modifications, or alternatively expand the content to a broader coverage of the topic."
+    ]
+  },
+  {
+    "uid": "anoy9",
+    "score": -1.0,
+    "reasons": [
+      "Doesn't provide background on previous estimated or quality of life reviews regarding HF.",
+      "Does not compare HF to those of any other chronic disease process (such as renal failure, respiratory disease etc.).",
+      "Nor does it explain the significant differences in HFpEF and HFrEF from an economic perspective.",
+      "Well presented given the wide reaching scope of the review.",
+      "Reasonable discussion."
+    ]
+  },
+  {
+    "uid": "anoy30",
+    "score": 1.0,
+    "reasons": [
+      "The authors did a good job of presenting background, rationale and motivation for their brief overview."
+    ]
+  },
+  {
+    "uid": "anoy18",
+    "score": -1.0,
+    "reasons": [
+      "It is recommended to provide a separate breakdown in Figure 2 for each reviewer, rather than presenting an overall summary.",
+      "Table showing correlation and chi square test is missing.",
+      "It is suggested to remove pie chart as this is not adding any value to the manuscript.",
+      "There’s no mention of how frequently the apps were updated or if the study accounted for updates during the research period in the methods section.",
+      "Some points mentioned in other sections of the study are repeated, such as the focus on the MARS scale and its dimensions.",
+      "Kindly avoid such repetitions.",
+      "Kindly review the calculation for the apps excluded.",
+      "The number mentioned in results (558) and the number mentioned in fig 2 (54) gives a difference of 10 which is missed out in the review.",
+      "Recheck and update the table or the count."
+    ]
+  },
+  {
+    "uid": "anoy92",
+    "score": 1.0,
+    "reasons": [
+      "There is, however, a well-structured summary of existing practices and recommendations for managing intraoral ceramic repairs."
+    ]
+  },
+  {
+    "uid": "anoy7",
+    "score": -1.0,
+    "reasons": [
+      "-You mentioned several times the aim, while the aim should be at the end of the introduction.",
+      "Please reshape your conclusion, it is too much, and it looks like results and discussions.",
+      "You mentioned several times the aim, while the aim should be at the end of the introduction."
+    ]
+  },
+  {
+    "uid": "anoy98",
+    "score": -1.0,
+    "reasons": [
+      "1. Introduction section required more elaborate related to background of green building incentive, challenges, motivation of research etc.",
+      "4. Author mixed conclusion and recommendation in section 7 and Recommendation shall described in separated section."
+    ]
+  },
+  {
+    "uid": "anoy2",
+    "score": -1.0,
+    "reasons": [
+      "Introduction: the authors state that this current article is a survey.",
+      "This is a bit confusing.",
+      "The authors should be clear on what type of article this is.",
+      "It is not a quantitative survey, systematic review, meta-analysis, review, or literature search.",
+      "As the article is now, an “opinion piece” seems more appropriate.",
+      "In which case, the article may be appropriately termed a “review”.",
+      "Conclusion: It would make more sense perhaps to include and expand upon the Berry 2012, Gone 2015, and Tullouch 2013 references in the “existing studies” or “why focus on language” sections.",
+      "Last paragraph of conclusion: the ideas presented in this paragraph seem to come out of nowhere as they have not been discussed earlier in the article."
+    ]
+  },
+  {
+    "uid": "anoy61",
+    "score": -1.0,
+    "reasons": [
+      "The authors need to find a logical structure for the review.",
+      "There is no clear flow of ideas.",
+      "Authors should find a logical way to order and link the sentences, paragraphs and sections of the review.",
+      "Generally, although it is important to make the review of broad interest, the authors should avoid digressing.",
+      "The topic and objective suggest that the review is on indigenous chicken production in Zambia, but the manuscript ended up covering the whole of Sub-Saharan Africa and even other countries such as Ghana, Senegal, Kenya, Gambia, Morocco, Nigeria, Tanzania etc.",
+      "While it is important to compare indigenous chickens production in Zambia to other developing regions, it is more important not to lose focus.",
+      "Page 4, paragraph 3 - What is the difference between this section and the preceding section?",
+      "Page 4, paragraph 3, line 8 - Is livestock production not part of agriculture?",
+      "Page 4, paragraphs 5 and 6 - Does this fit into the sub-topic “Use of agriculture and indigenous chickens among rural communities”?",
+      "I also think the last three paragraphs on this page are more like repetition, or can fit well in previous sections.",
+      "Page 5, paragraph 1 - What is the difference between this section and the proceeding one?",
+      "Page 7, paragraph 2 - The subtopic is incomplete.",
+      "How does the last sentence fit into the paragraph?",
+      "Any link with the preceding sentence?",
+      "Page 7, paragraph 7 - The sentence “…. there are beneficial adaptability and genetic gains…” contradicts sentences in the preceding paragraph.",
+      "Page 7, paragraph 8 - Isn’t this repetition?",
+      "The preceding section also includes nutritional challenges (at least according to the section heading).",
+      "Page 9 - What is the link between the section on “research applications” and preceding linkages?",
+      "The subtopic is also not clear.",
+      "Does it reflect on the contents of the section?"
+    ]
+  },
+  {
+    "uid": "anoy151",
+    "score": -2.0,
+    "reasons": [
+      "On that note, I don't like the design of Table 1 that lists papers and contains a binary \"Multi-step\" column to denote whether a particular paper has done something with multi-step, because it again confounds the fact that some papers introduce both a single-step model and a planning algorithm, but the former is not \"multi-step\", it just happens to appear in a paper that also does multi-step benchmarking.",
+      "I would rather see two separate tables for single-step and multi-step, and also perhaps a separate note of which pairs were so far combined with each other in existing works.",
+      "For example, the main taxonomy in Table 1 includes a binary \"USPTO\" column for whether a particular paper used one of the USPTO derivatives.",
+      "This is not inherent to a particular method, and so I'd rather not have that in the high-level comparison, and additionally have separate tables to aggregate results per dataset, differentiating between different USPTO derivative datasets appropriately.",
+      "It also has an accuracy column which is said to contain some top-k values but the k and dataset varies; the paper thus shows statistics of the form \"paper A reported accuracies between 58 and 88, while paper B reported between 64 and 73\", but these were measured differently on different datasets, so it doesn't seem particularly useful.",
+      "Overall I found that the way prior works are organized and summarized is not very helpful."
+    ]
+  },
+  {
+    "uid": "anoy153",
+    "score": 2.0,
+    "reasons": [
+      "In this regard, the survey systematically reviews ALMs with respect to reasoning, tool usage, and action, which were usually discussed separately before.",
+      "1. This paper provides a novel perspective on augmented language models – by reviewing reasoning, tool usage, and action in the same framework, ALMs are envisioned as powerful agents.",
+      "This approach offers a more visionary perspective for readers to view LLMs and gain a deeper understanding of the underlying connections among recent advancements in these fields."
+    ]
+  },
+  {
+    "uid": "anoy56",
+    "score": -1.0,
+    "reasons": [
+      "Results can be better elaborated (the conclusion is unusually long with regards to proportion to the results)",
+      "Noted the authors included prediabetes patients in the results.",
+      "Clear segregation need to be made for the study population as it may render too much heterogeneity in the interpretation of study results.",
+      "Authors need to explain why certain modalities are excluded.",
+      "Results: Generally well summarized."
+    ]
+  },
+  {
+    "uid": "anoy99",
+    "score": -1.0,
+    "reasons": [
+      "That the fish never abandon their anemone is a very interesting fact that should perhaps be highlighted earlier (or I did miss it when reading), together with the very long lifespan, to illustrate what is the unique features of the anemonefish as a model."
+    ]
+  },
+  {
+    "uid": "anoy38",
+    "score": -1.0,
+    "reasons": [
+      "The side effect tables either as numbers of patients or numbers of treatments.",
+      "If they cannot be presented as one combined set of data then some explanation of the two separate tables would be beneficial."
+    ]
+  },
+  {
+    "uid": "anoy87",
+    "score": -1.0,
+    "reasons": [
+      "The history of the growth factor receptor’s discovery seems a bit out of the scope of the review.",
+      "Because of the limited focus of the review, I would recommend revision of the title which more closely reflects the scope of the review."
+    ]
+  },
+  {
+    "uid": "anoy13",
+    "score": -1.0,
+    "reasons": [
+      "In particular, I think the introduction is too long and follows an odd structure.",
+      "The author clearly state this at page 9 of the manuscript but I think it should come much earlier in the paper, possibly even in the abstract:",
+      "In conclusion, I think at the moment the paper reads as an odd mix of a very long and detailed literature review and a very brief - not incredibly well justified - experimental report."
+    ]
+  },
+  {
+    "uid": "anoy77",
+    "score": -1.0,
+    "reasons": [
+      "For the content, all is well-covered but it would be better if sex is integrated into the other 3 pillars of heterogeneity."
+    ]
+  },
+  {
+    "uid": "anoy47",
+    "score": -1.0,
+    "reasons": [
+      "long sentence, would be best split into 2, with the second “This process is how funders oversee…”",
+      "Suggest use of semicolons here for consistency, as used in the list in the previous sentence.",
+      "Please restructure.",
+      "Table 6 is too lengthy to be useful- please provide a further summary of the main themes in the main text for the ease of the reader."
+    ]
+  },
+  {
+    "uid": "anoy144",
+    "score": -1.0,
+    "reasons": [
+      "The authors also split the reference section in two subsection (References + Publications from the Dataset).",
+      "The alphabetical sorting of the references is thus hard to infer and scanning the list is counterintuitive."
+    ]
+  },
+  {
+    "uid": "anoy60",
+    "score": 1.0,
+    "reasons": [
+      "The results make sense, they analyze them well, the article is very readable and the methods are suitable.",
+      "The conclusions are relevant for everyone who is developing mutation mining tools, probably most users of text mining algorithms, and they are well justified."
+    ]
+  },
+  {
+    "uid": "anoy4",
+    "score": 1.0,
+    "reasons": [
+      "The objectives, the methods, statistical approaches, results, discussion and conclusion are nicely described."
+    ]
+  },
+  {
+    "uid": "anoy112",
+    "score": -1.0,
+    "reasons": [
+      "The review does not give an answer as to why proteins aggregate and how pathological aggregations can be reversed or prohibited.",
+      "I also miss a general mechanistic picture, with thermodynamic and structural arguments given.",
+      "I would like to see the mechanism for how ions mediate aggregation and what the impact of their removal is.",
+      "How can pure water reverse the effect of aggregation promoting ions?"
+    ]
+  },
+  {
+    "uid": "anoy115",
+    "score": 1.0,
+    "reasons": [
+      "The review is well written, and the order to topics discussed is logical.",
+      "The figures were well-selected, and the tables were helpful.",
+      "One minor remark: I would mention PLP1 as the gene associated with Pelizaeus-Merzbacher disease (p6, R, middle para)."
+    ]
+  },
+  {
+    "uid": "anoy89",
+    "score": -1.0,
+    "reasons": [
+      "While the overall structure of the paper is adequate, the paper could be improved significantly with a few revisions.",
+      "The discussion that followed included a summary of key findings to address the study aims.",
+      "The conclusions aligned well with the results and discussion sections.",
+      "The main issue is the need to clearly and consistently articulate the study aims and align these aims with the study title.",
+      "Any changes made to improve clarity should be reflected in the abstract, methods and remaining sections of the paper.",
+      "The organization and content of Table 1 needs to be revised to reflect the study aims.",
+      "Also, the order in which papers are presented does not seem to follow any rules (not listed in chronological or alphabetical order) nor listed by the concept of interest.",
+      "It would be useful to have clear subheadings the reflect the order of the concepts as presented in the aim statement.",
+      "In the middle column, I would consider nursing workload models and information technologies to be the main elements of nursing care management.",
+      "I think that burnout predictors and outcomes would better fall within the third column as they are not a type of management tool.",
+      "Similarly, I think technology acceptance would better fit under the third column as well as it is not an element of nursing care management but instead is a factor related to technologies.",
+      "Suggest adding a 4th column to list the authors for the papers where related evidence for the theme was found.",
+      "This will help the reader with understanding the results and discussion sections as well."
+    ]
+  },
+  {
+    "uid": "anoy14",
+    "score": -2.0,
+    "reasons": [
+      "While the title of this article says it is a literature review, throughout the text the terms used is systematic review (SR), and several practices (e.g., use of a PRISMA flow chart, PRISMA checklist) suggest the authors attempted some aspects of a SR.",
+      "However, the methods as outlined here are not those of a systematic review and should not be written as such.",
+      "This is not how systematic reviews are completed.",
+      "Also what is listed in the text for inclusion (e.g., must have a keyword) is not what is talked about in Table 3.",
+      "The screening process was not conducted according to SR suggested processes.",
+      "Again, this doesn’t align with their stated inclusion criteria and is not correct SR screening methodology.",
+      "There are numerical errors in the PRISMA flow chart.",
+      "Ultimately, I think this article needs to be more clearly reclassified as a literature review."
+    ]
+  },
+  {
+    "uid": "anoy107",
+    "score": 1.0,
+    "reasons": [
+      "The review article is written and organized very well but minor points need to be taken care.",
+      "Authors have explained several techniques available to study the functionality of different genes involved in response to drought stress but should also include the advantages of these techniques in monocots/dicots.",
+      "In ESTs analysis, authors should include the analysis of drought responsive ESTs generated through chemical priming studied in crop plants."
+    ]
+  },
+  {
+    "uid": "anoy109",
+    "score": -1.0,
+    "reasons": [
+      "The presentation of a Table involving key parameters of the coupled systems such as organization levels, methods used for identification, consequences, references, remarks, could enormously help the readers.",
+      "The authors review many-many energy-consuming processes, sometimes those which are unrelated to the channeling issue, for example, the description of the dynamin system is too detailed.",
+      "In fact, this section is suggested to be significantly reduced, and focus on the role of channeling effects in the cases of the isoforms."
+    ]
+  },
+  {
+    "uid": "anoy124",
+    "score": -1.0,
+    "reasons": [
+      "The structure of the article is in conformity to the 'standard sections'",
+      "The submission is 'self-contained,' represents an appropriate 'unit of the publication'; however, it does not include all results relevant to the hypothesis.",
+      "The process of how the meta-analysis was carried out is not clear.",
+      "It misses important information to be able to affirm or not the hypothesis.",
+      "Methods are Not yet described with sufficient information to be reproducible by another investigator.",
+      "It is missing the description of how this statistical analysis was performed.",
+      "The conclusions still need work to be better connected to the original question investigated, and should be limited to those supported by the results."
+    ]
+  },
+  {
+    "uid": "anoy80",
+    "score": 1.0,
+    "reasons": [
+      "Verdict: Accepted- No modifications needed!",
+      "Only suggestion: It will be nicer if there is also a WEFE nexus diagram/ flowchart that encompasses the food, energy, and water security programs pointing out commonalities among the Horn of African regions."
+    ]
+  },
+  {
+    "uid": "anoy100",
+    "score": -1.0,
+    "reasons": [
+      "In the \"Introduction\", placement of Ref 17 is probably at a wrong position.",
+      "Instead of Conclusion, it may be replaced with Conclusion and Future research.",
+      "In that case, there should be some restructuring of the text with inclusion of some promising upcoming areas of futuristic research in this direction."
+    ]
+  },
+  {
+    "uid": "anoy31",
+    "score": -1.0,
+    "reasons": [
+      "The location of this sentence can be changed in the introduction sentence.",
+      "The paragraph starting with the “Adopting BDA in HCSCs facilitates real-time service delivery, data-driven decision-making, and improved performance (Araz et al., 2020).” should be reorganized.",
+      "“Further research is needed to explore how BDA can enhance healthcare supply chain management performance (HCSCMP) and to validate existing findings.” can be the last sentence and the later sentences can be integrated as drivers of HSCP.",
+      "This RQ can be shortened such as telling “investigating the trends in application of BDA in the HSCM”.",
+      "The paragraph which is located after research questions should be significantly reorganized.",
+      "Why did you specifically created a section titled as “Organizational Information Process Theory”?",
+      "The discussion section seems the repetition of the results section.",
+      "In order to overcome this problem, it would be better to synthesize and discuss the “Efficiency Enhancements of Big Data Analytics in Healthcare Supply Chains” and “Enablers and Challenges in Implementing Big Data Analytics in Healthcare Supply Chains” sections under one title.",
+      "I did not understand to relating and discussing the country and research method (Table 1, Figure 5).",
+      "Then suddenly the authors starts to talk about the “structured and unstructured data”. Is there any need to talk about “structured and unstructured data” here?"
+    ]
+  },
+  {
+    "uid": "anoy45",
+    "score": -1.0,
+    "reasons": [
+      "[1]. The objective in the abstract is different from the objective in the article's main text"
+    ]
+  },
+  {
+    "uid": "anoy85",
+    "score": 2.0,
+    "reasons": [
+      "Notably, the profile of the smart museum is not treated monolithically; rather, it is deconstructed into fifteen interrelated features (e.g., hybridity, authenticity, anthropocentrism), each supported by evidence and interpreted within the context of contemporary museum practice.",
+      "The inclusion of visual aids such as the Smart Museum Diagram (Figure 1, p. 6) and implementation tables (Tables 1–3, pp. 7–10) enhances the clarity and accessibility of the conceptual model while reinforcing the scholarly rigor of the review.",
+      "The authors ground their discussion in a wide-ranging synthesis of 83 scholarly sources and institutional reports, mapping technological integration across domains such as extended reality, artificial intelligence, robotics, and the Internet of Things.",
+      "This layered approach reflects the depth of current literature and renders the work particularly valuable for scholars and practitioners seeking to understand the broader institutional transformations underway."
+    ]
+  },
+  {
+    "uid": "anoy101",
+    "score": -1.0,
+    "reasons": [
+      "This research was conducted in a logical manner and is informative, but there are still some problems.",
+      "Logically, Section “KRAS mutation and tumor microenvironment” and Section “Prevalence and role of KRAS mutations in gastrointestinal cancers” should swap places."
+    ]
+  },
+  {
+    "uid": "anoy37",
+    "score": -1.0,
+    "reasons": [
+      "This is a non-sequiteur.",
+      "The paragraph should present a coherent argument for why we need to understand climate impacts on Covid-19.",
+      "The paragraph on seabirds is very weak and should be removed."
+    ]
+  },
+  {
+    "uid": "anoy96",
+    "score": -2.0,
+    "reasons": [
+      "Figures 1 and 2 present totally different statistics from what is quoted in the text.",
+      "In chapter 2, the authors say gasification has 4 stages, pyrolysis, combustion, reduction and gas separation.",
+      "This is incorrect.",
+      "In the explanation of the each stage, they start with stage one, and then say stage 2 is pyrolysis converse to their earlier statement."
+    ]
+  }
+]
