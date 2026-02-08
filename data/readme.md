@@ -1,1 +1,1 @@
-由于数据分发要求，数据请联系 zhangyuheng@ruc.edu.cn 获取。
+受数据分发与使用规范限制，如需获取相关数据，请联系 zhangyuheng@ruc.edu.cn。

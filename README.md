@@ -36,10 +36,10 @@ python src/api_base_evaluate.py
       <th rowspan="2">Rank</th>
       <th rowspan="2">Method</th>
       <th rowspan="2">Model</th>
-      <th colspan="2">Readability</th>
-      <th colspan="2">Criticalness</th>
-      <th colspan="2">Comprehensiveness</th>
-      <th colspan="2">Structure</th>
+      <th colspan="2">Read.</th>
+      <th colspan="2">Crit.</th>
+      <th colspan="2">Comp.</th>
+      <th colspan="2">Stru.</th>
       <th colspan="2">AVE</th>
       <th rowspan="2">RQS ↑</th>
       <th rowspan="2">SSR ↑</th>
