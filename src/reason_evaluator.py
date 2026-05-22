@@ -145,9 +145,17 @@ def evaluate_reasons_from_results(
     judge_model: str = "gpt-5.2",
     temperature: float = 0.3,
     max_workers: int = 16,
-    show_progress: bool = True
+    show_progress: bool = True,
+    definition_file: Path = DEFAULT_DEFINITION_FILE,
+    judge_prompt_file: Path = DEFAULT_JUDGE_PROMPT_FILE
 ) -> Dict:
-    evaluator = ReasonEvaluator(judge_model=judge_model, temperature=temperature, max_workers=max_workers)
+    evaluator = ReasonEvaluator(
+        judge_model=judge_model,
+        temperature=temperature,
+        max_workers=max_workers,
+        definition_file=definition_file,
+        judge_prompt_file=judge_prompt_file
+    )
     return evaluator.evaluate_reasons(predictions, dimension, show_progress)
 
 
