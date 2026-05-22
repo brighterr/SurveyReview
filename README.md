@@ -30,38 +30,6 @@ The benchmark focuses on four survey-review dimensions: **Readability**, **Criti
 | Labels | Four-dimensional scores with review rationales |
 | Metrics | MSE, MAE, SSR, and RQS |
 
-## Evaluation Dimensions
-
-| Dimension | What It Measures |
-| --- | --- |
-| Readability | Whether the survey is clear, understandable, and well presented. |
-| Criticalness | Whether the survey provides critical analysis and insights beyond summarization. |
-| Comprehensiveness | Whether the survey covers relevant literature sufficiently and appropriately. |
-| Structure | Whether the survey is logically organized and coherent. |
-
-Scores follow the paper setting: `-2`, `-1`, `1`, and `2`. The evaluation script compares model predictions with reviewer-aligned labels and can optionally judge rationale quality.
-
-## Repository Layout
-
-```text
-SurveyReview/
-|-- data/
-|   |-- v1.0-paper/
-|   |   |-- articles/      # article data used by the paper, split into shards
-|   |   |-- prompt/        # evaluation and rationale-judging prompts
-|   |   |-- raw/           # paper-level train/test samples matching the paper statistics
-|   |   |-- train/         # grouped train data used by the evaluator
-|   |   `-- test/          # grouped test data used by the evaluator
-|   `-- v1.1-release/      # cleaned release version for future experiments
-|-- src/
-|   |-- api_base_evaluate.py
-|   |-- model_client.py
-|   `-- reason_evaluator.py
-`-- result/                # generated after running evaluation
-```
-
-Use `data/v1.0-paper` to reproduce the paper setting. In this version, `raw/` preserves the paper data statistics, while `train/` and `test/` contain survey-grouped files that can be used directly by the current evaluator.
-
 ## Quick Start
 
 Create an environment and install dependencies:
@@ -218,6 +186,5 @@ Lower MSE/MAE is better. Higher SSR/RQS is better.
 ## Notes
 
 - `articles/` is split into multiple JSON shards to stay within GitHub file-size limits.
-- `v1.0-paper` should be used for paper reproduction.
-- `v1.1-release` is intended for cleaner downstream use and future experiments.
+- `v1.0-paper` is intended for paper reproduction.
 - If you only want to verify the pipeline, set `EVALUATE_REASONS=False` to skip the judge-model stage.
