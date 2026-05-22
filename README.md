@@ -1,4 +1,4 @@
-# SurveyReview
+<h1 align="center">SurveyReview</h1>
 
 <p align="center">
   <b>A Reviewer-Aligned Benchmark for Survey Evaluators</b>
@@ -6,9 +6,6 @@
 
 <p align="center">
   <a href="https://surveyreview.github.io/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-1f6feb"></a>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-2ea44f">
-  <img alt="Task" src="https://img.shields.io/badge/Task-Survey%20Evaluation-f97316">
-  <img alt="Benchmark" src="https://img.shields.io/badge/Benchmark-Reviewer%20Aligned-8b5cf6">
 </p>
 
 SurveyReview is a reviewer-aligned benchmark for evaluating survey papers. It converts real peer-review reports into multidimensional evaluation labels and rationales, allowing models to be tested against how human reviewers judge survey quality.
