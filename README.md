@@ -1,10 +1,66 @@
 # SurveyReview
-SurveyReview: A Reviewer-Aligned Benchmark for Survey Evaluators
 
-## Environment
+<p align="center">
+  <b>A Reviewer-Aligned Benchmark for Survey Evaluators</b>
+</p>
 
-- **Python**: 3.9+
-- **Install dependencies**:
+<p align="center">
+  <a href="https://surveyreview.github.io/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-1f6feb"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-2ea44f">
+  <img alt="Task" src="https://img.shields.io/badge/Task-Survey%20Evaluation-f97316">
+  <img alt="Benchmark" src="https://img.shields.io/badge/Benchmark-Reviewer%20Aligned-8b5cf6">
+</p>
+
+SurveyReview is a reviewer-aligned benchmark for evaluating survey papers. It converts real peer-review reports into multidimensional evaluation labels and rationales, allowing models to be tested against how human reviewers judge survey quality.
+
+The benchmark focuses on four survey-review dimensions: **Readability**, **Criticalness**, **Comprehensiveness**, and **Structure**. It provides standardized train/test splits, article metadata, prompt files, and an API-based evaluation pipeline.
+
+## Highlights
+
+| Item | Description |
+| --- | --- |
+| Papers | 675 survey papers |
+| Reviews | 1,630 authentic peer-review reports |
+| Split | 1,216 train samples and 414 test samples |
+| Sources | F1000Research, MOPRD, and OpenReview |
+| Labels | Four-dimensional scores with review rationales |
+| Metrics | MSE, MAE, SSR, and RQS |
+
+## Evaluation Dimensions
+
+| Dimension | What It Measures |
+| --- | --- |
+| Readability | Whether the survey is clear, understandable, and well presented. |
+| Criticalness | Whether the survey provides critical analysis and insights beyond summarization. |
+| Comprehensiveness | Whether the survey covers relevant literature sufficiently and appropriately. |
+| Structure | Whether the survey is logically organized and coherent. |
+
+Scores follow the paper setting: `-2`, `-1`, `1`, and `2`. The evaluation script compares model predictions with reviewer-aligned labels and can optionally judge rationale quality.
+
+## Repository Layout
+
+```text
+SurveyReview/
+|-- data/
+|   |-- v1.0-paper/
+|   |   |-- articles/      # article data used by the paper, split into shards
+|   |   |-- prompt/        # evaluation and rationale-judging prompts
+|   |   |-- raw/           # paper-level train/test samples matching the paper statistics
+|   |   |-- train/         # grouped train data used by the evaluator
+|   |   `-- test/          # grouped test data used by the evaluator
+|   `-- v1.1-release/      # cleaned release version for future experiments
+|-- src/
+|   |-- api_base_evaluate.py
+|   |-- model_client.py
+|   `-- reason_evaluator.py
+`-- result/                # generated after running evaluation
+```
+
+Use `data/v1.0-paper` to reproduce the paper setting. In this version, `raw/` preserves the paper data statistics, while `train/` and `test/` contain survey-grouped files that can be used directly by the current evaluator.
+
+## Quick Start
+
+Create an environment and install dependencies:
 
 ```bash
 python -m venv .venv
@@ -12,47 +68,59 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-- **Configure `.env`** (copy from `.env.example` and fill in):
-  - `API_KEY`: your API key
-  - `BASE_URL`: OpenAI-compatible base URL (e.g. `https://api.openai.com/v1` or your local gateway)
-  - `MODEL_NAME`: model used for evaluation (default `gpt-5.2`)
-  - `JUDGE_MODEL`: model used for RQS judging (default `gpt-5.2`)
-  - Optional: `MAX_WORKERS`, `JUDGE_MAX_WORKERS`, `TEMPERATURE`, `MAX_TOKENS`, `TIMEOUT`
+Configure the API client:
 
-## Run Evaluation
+```bash
+cp .env.example .env
+```
+
+Then edit `.env`:
+
+```text
+API_KEY=your-api-key-here
+BASE_URL=https://api.openai.com/v1
+MODEL_NAME=gpt-5.2
+JUDGE_MODEL=gpt-5.2
+EVALUATE_REASONS=True
+```
+
+Run the default test-set evaluation:
 
 ```bash
 python src/api_base_evaluate.py
 ```
 
-- Outputs are written to `result/<timestamp>/results.csv`.
+Run on the train split:
 
+```bash
+EVAL_SPLIT=train python src/api_base_evaluate.py
+```
 
-## Dataset Versions
+Outputs are written to `result/<timestamp>/`:
 
-We provide two versions of the SurveyReview dataset.
+| File | Description |
+| --- | --- |
+| `results.csv` | MSE, MAE, accuracy, and sample counts for each dimension. |
+| `predictions_<dimension>.jsonl` | Per-sample prediction records. |
+| `run_config.json` | Runtime configuration and split statistics. |
+| `rqs_<dimension>.json` | Rationale quality results when `EVALUATE_REASONS=True`. |
 
-- `v1.0-paper`: the exact dataset version used in the paper experiments. This version should be used to reproduce the results reported in the paper.
-- `v1.1-release`: the improved public release version. This version contains better parsing and formatting quality, and is recommended for future research.
+## Leaderboard
 
-Please use `v1.0-paper` for paper reproduction and `v1.1-release` for new experiments.
-
-
-## Leader Board
-
+Lower MSE/MAE is better. Higher SSR/RQS is better.
 
 <table>
   <thead>
     <tr>
       <th rowspan="2">Rank</th>
       <th rowspan="2">Model</th>
-      <th rowspan="2">SSR ↑</th>
+      <th rowspan="2">SSR</th>
       <th colspan="2">Read.</th>
       <th colspan="2">Crit.</th>
       <th colspan="2">Comp.</th>
       <th colspan="2">Stru.</th>
-      <th colspan="2">AVE</th>
-      <th rowspan="2">RQS ↑</th>
+      <th colspan="2">Average</th>
+      <th rowspan="2">RQS</th>
     </tr>
     <tr>
       <th>MSE</th><th>MAE</th>
@@ -65,7 +133,7 @@ Please use `v1.0-paper` for paper reproduction and `v1.1-release` for new experi
   <tbody>
     <tr>
       <td>1</td>
-      <td>SurveyReviewer</td>
+      <td><b>SurveyReviewer</b></td>
       <td><b>0.74</b></td>
       <td><b>1.43</b></td><td><b>0.72</b></td>
       <td><b>1.52</b></td><td><b>0.82</b></td>
@@ -143,4 +211,9 @@ Please use `v1.0-paper` for paper reproduction and `v1.1-release` for new experi
   </tbody>
 </table>
 
+## Notes
 
+- `articles/` is split into multiple JSON shards to stay within GitHub file-size limits.
+- `v1.0-paper` should be used for paper reproduction.
+- `v1.1-release` is intended for cleaner downstream use and future experiments.
+- If you only want to verify the pipeline, set `EVALUATE_REASONS=False` to skip the judge-model stage.
