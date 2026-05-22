@@ -16,7 +16,9 @@ venv/
 result/
 *.csv
 *.json.bak
-data/v1.0-paper/articles/articles.json
+
+/data/v1.1-release/
+
 
 .DS_Store
 .idea/
