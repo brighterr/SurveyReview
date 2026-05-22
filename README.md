@@ -1,4 +1,7 @@
-<h1 align="center">SurveyReview</h1>
+<h1 align="center">
+  <img src="assets/icon.png" alt="SurveyReview icon" width="44">
+  SurveyReview
+</h1>
 
 <p align="center">
   <b>A Reviewer-Aligned Benchmark for Survey Evaluators</b>
