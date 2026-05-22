@@ -27,6 +27,17 @@ python src/api_base_evaluate.py
 
 - Outputs are written to `result/<timestamp>/results.csv`.
 
+
+## Dataset Versions
+
+We provide two versions of the SurveyReview dataset.
+
+- `v1.0-paper`: the exact dataset version used in the paper experiments. This version should be used to reproduce the results reported in the paper.
+- `v1.1-release`: the improved public release version. This version contains better parsing and formatting quality, and is recommended for future research.
+
+Please use `v1.0-paper` for paper reproduction and `v1.1-release` for new experiments.
+
+
 ## Leader Board
 
 
@@ -131,7 +142,5 @@ python src/api_base_evaluate.py
     </tr>
   </tbody>
 </table>
-
-
 
 
