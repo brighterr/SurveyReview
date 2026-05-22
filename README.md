@@ -19,17 +19,6 @@ SurveyReview is a reviewer-aligned benchmark for evaluating survey papers. It co
 
 The benchmark focuses on four survey-review dimensions: **Readability**, **Criticalness**, **Comprehensiveness**, and **Structure**. It provides standardized train/test splits, article metadata, prompt files, and an API-based evaluation pipeline.
 
-## Highlights
-
-| Item | Description |
-| --- | --- |
-| Papers | 675 survey papers |
-| Reviews | 1,630 authentic peer-review reports |
-| Split | 1,216 train samples and 414 test samples |
-| Sources | F1000Research, MOPRD, and OpenReview |
-| Labels | Four-dimensional scores with review rationales |
-| Metrics | MSE, MAE, SSR, and RQS |
-
 ## Quick Start
 
 Create an environment and install dependencies:
