@@ -8,6 +8,10 @@
   <a href="https://surveyreview.github.io/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-1f6feb"></a>
 </p>
 
+<p align="center">
+  <img src="assets/main-0209.png" alt="SurveyReview overview" width="92%">
+</p>
+
 SurveyReview is a reviewer-aligned benchmark for evaluating survey papers. It converts real peer-review reports into multidimensional evaluation labels and rationales, allowing models to be tested against how human reviewers judge survey quality.
 
 The benchmark focuses on four survey-review dimensions: **Readability**, **Criticalness**, **Comprehensiveness**, and **Structure**. It provides standardized train/test splits, article metadata, prompt files, and an API-based evaluation pipeline.
