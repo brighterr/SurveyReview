@@ -4,7 +4,7 @@ This directory contains the `v1.0-paper` data release.
 
 ## v1.0-paper
 
-`v1.0-paper` is the paper-aligned version of SurveyReview.
+`v1.0-paper` is the paper-aligned version of SurveyReview .
 
 The review-level data counts reported in the paper correspond to the files under:
 

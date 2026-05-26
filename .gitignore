@@ -17,8 +17,6 @@ result/
 *.csv
 *.json.bak
 
-/data/v1.1-release/
-
 
 .DS_Store
 .idea/
