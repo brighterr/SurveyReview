@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://surveyreview.github.io/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-1f6feb"></a>
+  <a href="https://huggingface.co/datasets/brighterrluo/SurveyReview"><img alt="Hugging Face Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Hugging%20Face-ffcc4d"></a>
 </p>
 
 <p align="center">
