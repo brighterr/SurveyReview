@@ -16,6 +16,13 @@ venv/
 result/
 *.csv
 *.json.bak
+training/generated/
+training/outputs/
+training/saves/
+training/logs/
+wandb/
+*.log
+*.log~
 
 
 .DS_Store
