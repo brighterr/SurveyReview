@@ -69,14 +69,14 @@ Outputs are written to `result/<timestamp>/`:
 
 ## Leaderboard
 
-Lower MSE/MAE is better. Higher SSR/RQS is better.
+Lower MSE/MAE is better. Higher HAS/RQS is better.
 
 <table>
   <thead>
     <tr>
       <th rowspan="2">Rank</th>
       <th rowspan="2">Model</th>
-      <th rowspan="2">SSR</th>
+      <th rowspan="2">HAS</th>
       <th colspan="2">Read.</th>
       <th colspan="2">Crit.</th>
       <th colspan="2">Comp.</th>
