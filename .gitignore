@@ -14,13 +14,20 @@ env/
 venv/
 
 result/
+v*/result/
 *.csv
 *.json.bak
 training/generated/
+v*/training/generated/
+v*/training/generated-v1.1/
 training/outputs/
+v*/training/outputs/
 training/saves/
+v*/training/saves/
 training/logs/
+v*/training/logs/
 wandb/
+v*/wandb/
 *.log
 *.log~
 

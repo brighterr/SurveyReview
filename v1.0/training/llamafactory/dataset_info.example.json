@@ -1,0 +1,15 @@
+{
+  "surveyreview_readability": {
+    "file_name": "surveyreview_readability.json"
+  },
+  "surveyreview_criticalness": {
+    "file_name": "surveyreview_criticalness.json"
+  },
+  "surveyreview_comprehensiveness": {
+    "file_name": "surveyreview_comprehensiveness.json"
+  },
+  "surveyreview_structure": {
+    "file_name": "surveyreview_structure.json"
+  }
+}
+
