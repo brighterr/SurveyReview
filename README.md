@@ -18,7 +18,10 @@
 
 SurveyReview is a reviewer-aligned benchmark for evaluating survey papers. It converts real peer-review reports into multidimensional evaluation labels and rationales, allowing models to be tested against how human reviewers judge survey quality.
 
-`v1.1/`: the updated release using cleaned article texts.
+## Version
+
+- `v1.0/`: the original SurveyReview release for paper reproduction.
+- `v1.1/`: the updated release using cleaned article texts.
 
 The benchmark focuses on four survey-review dimensions: **Readability**, **Criticalness**, **Comprehensiveness**, and **Structure**. It provides standardized train/test splits, article metadata, prompt files, and an API-based evaluation pipeline.
 
