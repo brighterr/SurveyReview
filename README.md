@@ -69,7 +69,7 @@ Outputs are written to `result/<timestamp>/`:
 | `run_config.json` | Runtime configuration and split statistics. |
 | `rqs_<dimension>.json` | Rationale quality results when `EVALUATE_REASONS=True`. |
 
-## Leaderboard
+## Leaderboard(v1.0)
 
 Lower MSE/MAE is better. Higher HAS/RQS is better.
 
@@ -177,6 +177,7 @@ Lower MSE/MAE is better. Higher HAS/RQS is better.
 
 ## Notes
 
-- `articles/` is split into multiple JSON shards to stay within GitHub file-size limits.
-- `v1.0-paper` is intended for paper reproduction.
-- If you only want to verify the pipeline, set `EVALUATE_REASONS=False` to skip the judge-model stage.
+- `v1.0/` contains the original SurveyReview release and `v1.0-paper` data for paper reproduction.
+- `v1.1/` contains the updated release using cleaned article texts.
+- Article files are split into JSON shards to stay within GitHub file-size limits.
+- Both releases keep the SurveyReview evaluation style: MSE/MAE plus optional RQS. If you only want to verify the pipeline, set `EVALUATE_REASONS=False` to skip the judge-model stage.
